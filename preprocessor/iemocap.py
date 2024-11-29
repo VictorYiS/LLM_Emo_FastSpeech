@@ -29,13 +29,14 @@ def prepare_align(config):
     filelist_fixed = open(f'{out_dir}/filelist.txt', 'w', encoding='utf-8')
     speaker_info, speaker_done = dict(), set()
 
+    # record wav file and fixed text to dict, if nothing to fix, use raw text
     fixed_text_dict = dict()
     with open(fixed_text_path, 'r', encoding='utf-8') as f:
         for line in tqdm(f.readlines()):
             wav, fixed_text = line.split('|')[0], line.split('|')[1]
             fixed_text_dict[wav] = fixed_text.replace('\n', '')
 
-    for sep_dir in tqdm(next(os.walk(in_dir))[1]):
+    for sep_dir in tqdm(next(os.walk(in_dir))[1]):  # in_dir: sessions, sep_dir:Session1/Session2/...
         if sub_dir[:-1] not in sep_dir.lower():
             continue
         for wav_dir in tqdm((next(os.walk(os.path.join(in_dir, sep_dir, "sentences", "wav")))[1])):
@@ -97,7 +98,7 @@ def prepare_align(config):
                 text = _clean_text(text, cleaners)
 
                 os.makedirs(os.path.join(out_dir, sub_dir, wav_dir), exist_ok=True)
-                wav, _ = librosa.load(wav_path, sampling_rate)
+                wav, _ = librosa.load(wav_path, sr=sampling_rate)
                 wav = wav / max(abs(wav)) * max_wav_value
                 wavfile.write(
                     os.path.join(out_dir, sub_dir, wav_dir, "{}.wav".format(base_name_new)),

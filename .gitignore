@@ -168,3 +168,6 @@ raw_data/
 # MFA
 montreal-forced-aligner/
 __pycache__
+
+# Ignore all datasets
+IEMOCAP_full_release/
