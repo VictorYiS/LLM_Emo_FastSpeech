@@ -2,14 +2,18 @@ import argparse
 
 import yaml
 
-from preprocessor import aihub_mmv, iemocap
+from preprocessor import genshin, ljspeech, aishell3, libritts
 
 
 def main(config):
-    if "AIHub-MMV" in config["dataset"]:
-        aihub_mmv.prepare_align(config)
-    if "IEMOCAP" in config["dataset"]:
-        iemocap.prepare_align(config)
+    if "LJSpeech" in config["dataset"]:
+        ljspeech.prepare_align(config)
+    if "AISHELL3" in config["dataset"]:
+        aishell3.prepare_align(config)
+    if "LibriTTS" in config["dataset"]:
+        libritts.prepare_align(config)
+    if "GENSHIN" in config["dataset"]:
+        genshin.prepare_align(config)
 
 
 if __name__ == "__main__":

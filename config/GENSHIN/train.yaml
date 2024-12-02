@@ -1,7 +1,7 @@
 path:
-  ckpt_path: "./output/ckpt/IEMOCAP"
-  log_path: "./output/log/IEMOCAP"
-  result_path: "./output/result/IEMOCAP"
+  ckpt_path: "./output/ckpt/GENSHIN"
+  log_path: "./output/log/GENSHIN"
+  result_path: "./output/result/GENSHIN"
 optimizer:
   batch_size: 16
   betas: [0.9, 0.98]
@@ -13,8 +13,8 @@ optimizer:
   anneal_steps: [300000, 400000, 500000]
   anneal_rate: 0.3
 step:
-  total_step: 6001
+  total_step: 8001
   log_step: 100
   synth_step: 1000
   val_step: 1000
-  save_step: 2000
+  save_step: 4000

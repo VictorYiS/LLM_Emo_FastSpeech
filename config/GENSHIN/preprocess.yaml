@@ -1,12 +1,10 @@
-dataset: "IEMOCAP"
+dataset: "GENSHIN"
 
 path:
-  corpus_path: "home/ming/Data/IEMOCAP/"
-  sub_dir_name: "session1"
-  lexicon_path: "lexicon/iemocap-lexicon.txt"
-  fixed_text_path: "./preparation/iemocap_fixed.txt"
-  raw_path: "./raw_data/IEMOCAP"
-  preprocessed_path: "./preprocessed_data/IEMOCAP"
+  corpus_path: "home/ming/Data/GENSHIN/"
+  lexicon_path: "lexicon/librispeech-lexicon.txt"
+  raw_path: "./raw_data/GENSHIN"
+  preprocessed_path: "./preprocessed_data/GENSHIN"
 
 preprocessing:
   val_size: 512

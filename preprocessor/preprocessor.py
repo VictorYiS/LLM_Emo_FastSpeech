@@ -1,3 +1,4 @@
+import csv
 import os
 import random
 import json
@@ -15,8 +16,10 @@ import audio as Audio
 
 class Preprocessor:
     def __init__(self, config):
+	    # 情感配置需要添加
         self.config = config
         self.in_dir = config["path"]["raw_path"]
+        self.origin_dir = config["path"]["corpus_path"]
         self.out_dir = config["path"]["preprocessed_path"]
         self.val_size = config["preprocessing"]["val_size"]
         self.sampling_rate = config["preprocessing"]["audio"]["sampling_rate"]
@@ -63,9 +66,21 @@ class Preprocessor:
         energy_scaler = StandardScaler()
 
         # Compute pitch, energy, duration, and mel-spectrogram
+		# 这里文件层次格式固定，比如只能有一层文件夹，里面放的是语音
         speakers = {}
         for i, speaker in enumerate(tqdm(os.listdir(self.in_dir))):
             speakers[speaker] = i
+            emotion_mapping_file = os.path.join(self.origin_dir, f"{speaker}_audio_emotions.csv")
+            if not os.path.exists(emotion_mapping_file):
+                emotion_mapping_dict = {}
+            else:
+                with open(emotion_mapping_file, "r", newline='', encoding='utf-8') as csv_file:
+                    reader = csv.reader(csv_file, delimiter='|')
+                    for row in reader:
+                        if len(row) >= 3:
+                            key = row[0]
+                            value = row[2]
+                            emotion_mapping_dict[key] = value
             for wav_name in os.listdir(os.path.join(self.in_dir, speaker)):
                 if ".wav" not in wav_name:
                     continue
@@ -245,6 +260,13 @@ class Preprocessor:
             mel_spectrogram.T,
         )
 
+        # 保存情感embedding
+        emotion_filename = "{}-emotion-{}.npy".format(speaker, basename)
+        np.save(
+            os.path.join(self.out_dir, "emotion", emotion_filename),
+            emotion,
+        )
+
         return (
             "|".join([basename, speaker, text, raw_text]),
             self.remove_outlier(pitch),
@@ -253,6 +275,7 @@ class Preprocessor:
         )
 
     def get_alignment(self, tier):
+	    # 要看tg会不会全是spn，就完了
         sil_phones = ["sil", "sp", "spn"]
 
         phones = []

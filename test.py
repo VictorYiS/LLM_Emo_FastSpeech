@@ -1,3 +1,13 @@
-import torch
-print(torch.cuda.is_available())  # 如果返回 False，说明当前环境不支持 GPU
-print(torch.version.cuda)
+import numpy as np
+from sklearn.preprocessing import StandardScaler
+
+# Sample data
+data = np.array([[1, 2], [3, 4], [5, 6]])
+
+# Initialize the StandardScaler
+scaler = StandardScaler()
+
+# Fit the scaler to the data and transform it
+scaled_data = scaler.fit_transform(data)
+
+print(scaled_data)
