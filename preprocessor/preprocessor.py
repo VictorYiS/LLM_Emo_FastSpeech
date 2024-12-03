@@ -71,21 +71,21 @@ class Preprocessor:
         for i, speaker in enumerate(tqdm(os.listdir(self.in_dir))):
             speakers[speaker] = i
             emotion_mapping_file = os.path.join(self.origin_dir, f"{speaker}_audio_emotions.csv")
-            if not os.path.exists(emotion_mapping_file):
-                emotion_mapping_dict = {}
-            else:
-                with open(emotion_mapping_file, "r", newline='', encoding='utf-8') as csv_file:
-                    reader = csv.reader(csv_file, delimiter='|')
-                    for row in reader:
-                        if len(row) >= 3:
-                            key = row[0]
-                            value = row[2]
-                            emotion_mapping_dict[key] = value
+            emotion_mapping_dict = {}
+
+            with open(emotion_mapping_file, "r", newline='', encoding='utf-8') as csv_file:
+                reader = csv.reader(csv_file, delimiter='|')
+                for row in reader:
+                    if len(row) >= 3:
+                        key = row[0]
+                        value = row[2]
+                        emotion_mapping_dict[key] = value
             for wav_name in os.listdir(os.path.join(self.in_dir, speaker)):
                 if ".wav" not in wav_name:
                     continue
 
                 basename = wav_name.split(".")[0]
+                # print(f"emotion_mapping_dict: {emotion_mapping_dict[wav_name]}")
                 tg_path = os.path.join(
                     self.out_dir, "TextGrid", speaker, "{}.TextGrid".format(basename)
                 )
@@ -261,11 +261,11 @@ class Preprocessor:
         )
 
         # 保存情感embedding
-        emotion_filename = "{}-emotion-{}.npy".format(speaker, basename)
-        np.save(
-            os.path.join(self.out_dir, "emotion", emotion_filename),
-            emotion,
-        )
+        # emotion_filename = "{}-emotion-{}.npy".format(speaker, basename)
+        # np.save(
+        #     os.path.join(self.out_dir, "emotion", emotion_filename),
+        #     emotion,
+        # )
 
         return (
             "|".join([basename, speaker, text, raw_text]),
