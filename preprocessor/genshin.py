@@ -66,14 +66,15 @@ def rename_files(config):
             print(f"File {csv_file_path} does not exist.")
         # Read and update the CSV file in place
         with open(csv_file_path, "r", newline='', encoding='utf-8') as csv_file:
-            reader = csv.reader(csv_file)
+            reader = csv.reader(csv_file, delimiter='|')
             rows = list(reader)
-
         with open(csv_file_path, "w", newline='', encoding='utf-8') as csv_file:
-            writer = csv.writer(csv_file)
+            writer = csv.writer(csv_file, delimiter='|')
             for row in rows:
                 if row[0][:-4] in name_mapping:
                     row[0] = (name_mapping[row[0][:-4]] + '.wav')
+                else:
+                    print(row[0])
                 writer.writerow(row)
 
 

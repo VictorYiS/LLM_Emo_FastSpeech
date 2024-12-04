@@ -13,6 +13,7 @@ from utils.model import get_model, get_vocoder
 from utils.tools import to_device, synth_samples
 from dataset import TextDataset
 from text import text_to_sequence
+from text.emotion import process_emotion
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -138,6 +139,13 @@ if __name__ == "__main__":
         help="speaker ID for multi-speaker synthesis, for single-sentence mode only",
     )
     parser.add_argument(
+        "--emotion",
+        type=str,
+        default="neutral",
+        help="add emotion type for synthesis, for single-sentence mode only",
+    )
+
+    parser.add_argument(
         "-p",
         "--preprocess_config",
         type=str,
@@ -190,7 +198,9 @@ if __name__ == "__main__":
     # Load vocoder
     vocoder = get_vocoder(model_config, device)
 
-    # Preprocess texts
+    emotion = np.array([process_emotion(args.emotion)])
+
+    # Preprocess texts   batch后面再加？
     if args.mode == "batch":
         # Get dataset
         dataset = TextDataset(args.source, preprocess_config)
@@ -207,7 +217,8 @@ if __name__ == "__main__":
         elif preprocess_config["preprocessing"]["text"]["language"] == "zh":
             texts = np.array([preprocess_mandarin(args.text, preprocess_config)])
         text_lens = np.array([len(texts[0])])
-        batchs = [(ids, raw_texts, speakers, texts, text_lens, max(text_lens))]
+        # 这里改了加情感
+        batchs = [(ids, raw_texts, speakers, emotion, texts, text_lens, max(text_lens))]
 
     control_values = args.pitch_control, args.energy_control, args.duration_control
 

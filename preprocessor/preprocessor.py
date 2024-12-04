@@ -1,17 +1,18 @@
 import csv
+import json
 import os
 import random
-import json
 
-import tgt
 import librosa
 import numpy as np
 import pyworld as pw
+import tgt
 from scipy.interpolate import interp1d
 from sklearn.preprocessing import StandardScaler
 from tqdm import tqdm
 
 import audio as Audio
+from text.emotion import process_emotion
 
 
 class Preprocessor:
@@ -92,7 +93,7 @@ class Preprocessor:
                 # gaile 不加textgrind会报错
                 info, pitch, energy, n = None, [], [], 0 # gaile
                 if os.path.exists(tg_path):
-                    ret = self.process_utterance(speaker, basename)
+                    ret = self.process_utterance(speaker, basename, emotion_mapping_dict)
                     if ret is None:
                         continue
                     else:
@@ -169,7 +170,7 @@ class Preprocessor:
 
         return out
 
-    def process_utterance(self, speaker, basename):
+    def process_utterance(self, speaker, basename, emotion_mapping_dict):
         wav_path = os.path.join(self.in_dir, speaker, "{}.wav".format(basename))
         text_path = os.path.join(self.in_dir, speaker, "{}.lab".format(basename))
         tg_path = os.path.join(
@@ -244,7 +245,16 @@ class Preprocessor:
                 pos += d
             energy = energy[: len(duration)]
 
+        emotion_type = emotion_mapping_dict[basename + '.wav']
+        emotion_onehot = process_emotion(emotion_type)
+
         # Save files
+
+        emotion_filename = "{}-emotion-{}.npy".format(speaker, basename)
+        np.save(
+            os.path.join(self.out_dir, "emotion", emotion_filename),
+            emotion_onehot,
+        )
         dur_filename = "{}-duration-{}.npy".format(speaker, basename)
         np.save(os.path.join(self.out_dir, "duration", dur_filename), duration)
 
@@ -259,13 +269,6 @@ class Preprocessor:
             os.path.join(self.out_dir, "mel", mel_filename),
             mel_spectrogram.T,
         )
-
-        # 保存情感embedding
-        # emotion_filename = "{}-emotion-{}.npy".format(speaker, basename)
-        # np.save(
-        #     os.path.join(self.out_dir, "emotion", emotion_filename),
-        #     emotion,
-        # )
 
         return (
             "|".join([basename, speaker, text, raw_text]),

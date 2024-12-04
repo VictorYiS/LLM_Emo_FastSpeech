@@ -40,9 +40,21 @@ class FastSpeech2(nn.Module):
                 model_config["transformer"]["encoder_hidden"],
             )
 
+        self.emotion_emb = None
+        encoder_hidden = model_config["transformer"]["encoder_hidden"]
+        self.emotion_emb = nn.Embedding(
+            8,
+            encoder_hidden,
+        )
+        self.emotion_linear = nn.Sequential(
+             nn.Linear(encoder_hidden, encoder_hidden),
+			 nn.ReLU()
+        )
+
     def forward(
         self,
         speakers,
+		emotions,
         texts,
         src_lens,
         max_src_len,
@@ -67,6 +79,11 @@ class FastSpeech2(nn.Module):
 
         if self.speaker_emb is not None:
             output = output + self.speaker_emb(speakers).unsqueeze(1).expand(
+                -1, max_src_len, -1
+            )
+# 測試
+        if self.emotion_emb is not None:
+            output = output + self.emotion_linear(self.emotion_emb(emotions)).unsqueeze(1).expand(
                 -1, max_src_len, -1
             )
 

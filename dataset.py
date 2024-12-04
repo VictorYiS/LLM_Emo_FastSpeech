@@ -5,7 +5,7 @@ import os
 import numpy as np
 from torch.utils.data import Dataset
 
-from text import text_to_sequence
+from text import text_to_sequence, emotion
 from utils.tools import pad_1D, pad_2D
 
 
@@ -59,10 +59,17 @@ class Dataset(Dataset):
             "{}-duration-{}.npy".format(speaker, basename),
         )
         duration = np.load(duration_path)
+        emotion_path = os.path.join(
+            self.preprocessed_path,
+            "emotion",
+            "{}-emotion-{}.npy".format(speaker, basename),
+        )
+        emotion = np.load(emotion_path)
 
         sample = {
             "id": basename,
             "speaker": speaker_id,
+			"emotion": emotion,
             "text": phone,
             "raw_text": raw_text,
             "mel": mel,
@@ -99,6 +106,7 @@ class Dataset(Dataset):
         pitches = [data[idx]["pitch"] for idx in idxs]
         energies = [data[idx]["energy"] for idx in idxs]
         durations = [data[idx]["duration"] for idx in idxs]
+        emotions = [data[idx]["emotion"] for idx in idxs]
 
         text_lens = np.array([text.shape[0] for text in texts])
         mel_lens = np.array([mel.shape[0] for mel in mels])
@@ -109,11 +117,14 @@ class Dataset(Dataset):
         pitches = pad_1D(pitches)
         energies = pad_1D(energies)
         durations = pad_1D(durations)
+        # 似乎没必要
+        emotions = np.array(emotions)
 
         return (
             ids,
             raw_texts,
             speakers,
+			emotions,
             texts,
             text_lens,
             max(text_lens),
@@ -146,7 +157,7 @@ class Dataset(Dataset):
 
         return output
 
-
+# batch用的，先不加
 class TextDataset(Dataset):
     def __init__(self, filepath, preprocess_config):
         self.cleaners = preprocess_config["preprocessing"]["text"]["text_cleaners"]
@@ -179,6 +190,7 @@ class TextDataset(Dataset):
             speaker = []
             text = []
             raw_text = []
+            # 这里的n s t r是什么
             for line in f.readlines():
                 n, s, t, r = line.strip("\n").split("|")
                 name.append(n)
