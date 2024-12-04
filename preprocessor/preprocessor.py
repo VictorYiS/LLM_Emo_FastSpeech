@@ -59,6 +59,7 @@ class Preprocessor:
         os.makedirs((os.path.join(self.out_dir, "pitch")), exist_ok=True)
         os.makedirs((os.path.join(self.out_dir, "energy")), exist_ok=True)
         os.makedirs((os.path.join(self.out_dir, "duration")), exist_ok=True)
+        os.makedirs((os.path.join(self.out_dir, "emotion")), exist_ok=True)
 
         print("Processing Data ...")
         out = list()
@@ -71,16 +72,22 @@ class Preprocessor:
         speakers = {}
         for i, speaker in enumerate(tqdm(os.listdir(self.in_dir))):
             speakers[speaker] = i
-            emotion_mapping_file = os.path.join(self.origin_dir, f"{speaker}_audio_emotions.csv")
+            # emotion_mapping_file = os.path.join(self.origin_dir, f"{speaker}_audio_emotions.csv")
+            emotion_mapping_file = os.path.join(self.origin_dir, f"{speaker}.txt")
             emotion_mapping_dict = {}
 
             with open(emotion_mapping_file, "r", newline='', encoding='utf-8') as csv_file:
-                reader = csv.reader(csv_file, delimiter='|')
-                for row in reader:
-                    if len(row) >= 3:
-                        key = row[0]
-                        value = row[2]
-                        emotion_mapping_dict[key] = value
+                # reader = csv.reader(csv_file, delimiter='|')
+                # for row in reader:
+                #     if len(row) >= 3:
+                #         key = row[0]
+                #         value = row[2]
+                #         emotion_mapping_dict[key] = value
+                for row in csv_file:
+                    parts = row.strip().split("|")
+                    key = parts[0]
+                    value = parts[2]
+                    emotion_mapping_dict[key] = value
             for wav_name in os.listdir(os.path.join(self.in_dir, speaker)):
                 if ".wav" not in wav_name:
                     continue
@@ -245,7 +252,8 @@ class Preprocessor:
                 pos += d
             energy = energy[: len(duration)]
 
-        emotion_type = emotion_mapping_dict[basename + '.wav']
+        # emotion_type = emotion_mapping_dict[basename + '.wav']
+        emotion_type = emotion_mapping_dict[basename]
         emotion_onehot = process_emotion(emotion_type)
 
         # Save files

@@ -46,10 +46,6 @@ class FastSpeech2(nn.Module):
             8,
             encoder_hidden,
         )
-        self.emotion_linear = nn.Sequential(
-             nn.Linear(encoder_hidden, encoder_hidden),
-			 nn.ReLU()
-        )
 
     def forward(
         self,
@@ -83,7 +79,7 @@ class FastSpeech2(nn.Module):
             )
 # 測試
         if self.emotion_emb is not None:
-            output = output + self.emotion_linear(self.emotion_emb(emotions)).unsqueeze(1).expand(
+            output = output + self.emotion_emb(emotions).unsqueeze(1).expand(
                 -1, max_src_len, -1
             )
 

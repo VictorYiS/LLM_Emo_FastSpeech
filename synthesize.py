@@ -198,8 +198,6 @@ if __name__ == "__main__":
     # Load vocoder
     vocoder = get_vocoder(model_config, device)
 
-    emotion = np.array([process_emotion(args.emotion)])
-
     # Preprocess texts   batch后面再加？
     if args.mode == "batch":
         # Get dataset
@@ -212,6 +210,8 @@ if __name__ == "__main__":
     if args.mode == "single":
         ids = raw_texts = [args.text[:100]]
         speakers = np.array([args.speaker_id])
+        emotion = np.array([process_emotion(args.emotion)])
+        print(f"emotion={emotion}")
         if preprocess_config["preprocessing"]["text"]["language"] == "en":
             texts = np.array([preprocess_english(args.text, preprocess_config)])
         elif preprocess_config["preprocessing"]["text"]["language"] == "zh":

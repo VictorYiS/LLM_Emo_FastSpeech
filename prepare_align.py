@@ -2,7 +2,7 @@ import argparse
 
 import yaml
 
-from preprocessor import genshin, ljspeech, aishell3, libritts
+from preprocessor import genshin, ljspeech, aishell3, libritts, esd
 
 
 def main(config):
@@ -14,6 +14,8 @@ def main(config):
         libritts.prepare_align(config)
     if "GENSHIN" in config["dataset"]:
         genshin.prepare_align(config)
+    if "ESD" in config["dataset"]:
+        esd.prepare_align(config)
 
 
 if __name__ == "__main__":
