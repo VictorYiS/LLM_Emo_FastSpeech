@@ -1,3 +1,5 @@
+import os
+
 import numpy as np
 import torch
 import yaml
@@ -30,6 +32,8 @@ def generate_emotions_args(text="I am happy", speaker_id=0, emotion="Happy"):
     return args
 
 def generate_run():
+    os.makedirs("./output/ckpt/ESD", exist_ok=True)
+    os.makedirs("./output/result/ESD", exist_ok=True)
     args = generate_emotions_args()
     preprocess_config = yaml.load(
         open(args.preprocess_config, "r"), Loader=yaml.FullLoader
