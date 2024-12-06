@@ -11,7 +11,7 @@ mfa align ./raw_data/ESD/ english_us_arpa english_us_arpa preprocessed_data/ESD/
 python preprocess.py -p config/ESD/preprocess.yaml
 python train.py -p config/ESD/preprocess.yaml
 ```
-需要生成带情感的音频，可以执行如下命令来使用预训练好的模型，在文件配置中更改text，说话人和情感：
+需要生成带情感的音频，可以执行如下命令来使用预训练好的模型(需要事先在output/ckpt/ESD中放入模型文件)，在文件配置中更改text，说话人和情感：
 ```bash
 python generate_with_emotion.py
 ```
