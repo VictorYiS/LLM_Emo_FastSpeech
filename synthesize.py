@@ -108,9 +108,7 @@ def synthesize(model, step, configs, vocoder, batchs, control_values):
                 train_config["path"]["result_path"],
             )
 
-
-if __name__ == "__main__":
-
+def generate_synthesis_args(args_dict=None):
     parser = argparse.ArgumentParser()
     parser.add_argument("--restore_step", type=int, required=True)
     parser.add_argument(
@@ -141,7 +139,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--emotion",
         type=str,
-        default="neutral",
+        default="Neutral",
         help="add emotion type for synthesis, for single-sentence mode only",
     )
 
@@ -176,7 +174,15 @@ if __name__ == "__main__":
         default=1.0,
         help="control the speed of the whole utterance, larger value for slower speaking rate",
     )
-    args = parser.parse_args()
+    if args_dict:
+        args = parser.parse_args(args_dict)
+    else:
+        args = parser.parse_args()
+
+    return args
+
+if __name__ == "__main__":
+    args = generate_synthesis_args()
 
     # Check source texts
     if args.mode == "batch":

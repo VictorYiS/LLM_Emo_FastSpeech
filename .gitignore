@@ -171,9 +171,7 @@ __pycache__
 
 # Ignore all datasets
 IEMOCAP_full_release/
-output/ckpt/*
 home/ming/Data/*
-output/ckpt/*
 output/result/*
 output/log/*
 preprocessed_data/*

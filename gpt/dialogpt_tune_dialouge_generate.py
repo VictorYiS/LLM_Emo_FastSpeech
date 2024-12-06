@@ -5,7 +5,7 @@ from transformers import pipeline
 
 
 # Load fine-tuned model and tokenizer
-model_path = './dialogpt_friends_model_final'
+model_path = './dialogpt_friends_model/checkpoint-4536'
 model = AutoModelForCausalLM.from_pretrained(model_path)
 
 model_name = "microsoft/DialoGPT-small"
@@ -94,7 +94,7 @@ if __name__ == "__main__":
     for i, dialogue in enumerate(generated_dialogues, 1):
         # print(f"Generated Dialogue {i}:\n{dialogue}")
         dialogue_data = extract_dialogues(dialogue)
-        print(dialogue_data)
+        # print(dialogue_data)
         dialogue_data_with_emotion = emotion_classify(dialogue_data)
         print(dialogue_data_with_emotion)
 

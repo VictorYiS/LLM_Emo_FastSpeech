@@ -34,7 +34,8 @@ model_name = "microsoft/DialoGPT-small"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
 
-device = torch.device("cpu")
+# device = torch.device("cpu")
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
 # Set pad token if not already set
@@ -77,7 +78,7 @@ processed_dataset = dataset.map(
 # Training arguments
 training_args = TrainingArguments(
     output_dir='./dialogpt_friends_model',
-    num_train_epochs=10,
+    num_train_epochs=6,
     per_device_train_batch_size=4,
     save_steps=10_000,
     save_total_limit=2,
