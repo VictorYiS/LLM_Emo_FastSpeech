@@ -82,19 +82,25 @@ def emotion_classify(dialogue_data):
     return dialogue_data
 
 
-# Example usage
-if __name__ == "__main__":
+def generate_dialogue_with_emotion(initial_context):
+    generated_dialogues = generate_dialogue(initial_context)
+    dialogues_with_emotion = []
+    for dialogue in generated_dialogues:
+        dialogue_data = extract_dialogues(dialogue)
+        dialogue_data_with_emotion = emotion_classify(dialogue_data)
+        dialogues_with_emotion.append(dialogue_data_with_emotion)
+    return dialogues_with_emotion
+
+
+def main():
     # Initial conversation context
     initial_context = "Monica: I hate cleaning the house."
+    generate_dialogue_with_emotion(initial_context)
 
-    # Generate dialogues
-    generated_dialogues = generate_dialogue(initial_context)
 
-    # Print generated dialogues
-    for i, dialogue in enumerate(generated_dialogues, 1):
-        # print(f"Generated Dialogue {i}:\n{dialogue}")
-        dialogue_data = extract_dialogues(dialogue)
-        # print(dialogue_data)
-        dialogue_data_with_emotion = emotion_classify(dialogue_data)
-        print(dialogue_data_with_emotion)
+# Example usage
+if __name__ == "__main__":
+    main()
+
+
 

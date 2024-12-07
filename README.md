@@ -12,6 +12,18 @@ python preprocess.py -p config/ESD/preprocess.yaml
 python train.py -p config/ESD/preprocess.yaml
 ```
 需要生成带情感的音频，可以执行如下命令来使用预训练好的模型(需要事先在output/ckpt/ESD中放入模型文件)，在文件配置中更改text，说话人和情感：
+训练好的模型:https://drive.google.com/file/d/1VU4KXx6IehDgaB1MooL1HBg3EG2WqAQN/view?usp=sharing
 ```bash
 python generate_with_emotion.py
+```
+调用tts接口，更改text，说话人和情感：
+```python
+from generate_with_emotion import generate_emotions_args
+# "Angry", "Sad", "Neutral", "Happy", "Surprise"
+generate_emotions_args("Today is a good day", 1, "Happy")
+```
+如果需要使用预训练的gpt2模型，可以参考如下命令，目前还没实现注入情感，需要把model.safetensors和optimizer.pt放到gpt/dialogpt_friends_model/checkpoint-4536下面，文件链接:https://drive.google.com/file/d/1EEduisSNpwWcTTv7qgeAjlQODtVw9Zyv/view?usp=sharing, https://drive.google.com/file/d/1_mKkQGISWw7Y8oVywWBhKPoNjiWymCFo/view?usp=sharing：
+```bash
+from gpt.dialogpt_tune_dialouge_generate import generate_dialogue_with_emotion
+generate_dialogue_with_emotion("I am happy")
 ```
