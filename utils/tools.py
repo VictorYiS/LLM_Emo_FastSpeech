@@ -1,3 +1,4 @@
+import hashlib
 import os
 import json
 
@@ -211,6 +212,19 @@ def synth_one_sample(targets, predictions, vocoder, model_config, preprocess_con
     return fig, wav_reconstruction, wav_prediction, basename
 
 
+# 对字符串进行md5加密
+def get_md5(text):
+    # 如果是字符串，需要先转换成bytes
+    if isinstance(text, str):
+        text = text.encode('utf-8')
+
+    # 创建md5对象
+    m = hashlib.md5()
+    # 更新要加密的内容
+    m.update(text)
+    # 返回十六进制字符串
+    return m.hexdigest()
+
 # 需要研究一下这里怎么改
 def synth_samples(targets, predictions, vocoder, model_config, preprocess_config, path):
     basenames = targets[0]
@@ -257,7 +271,7 @@ def synth_samples(targets, predictions, vocoder, model_config, preprocess_config
 
     sampling_rate = preprocess_config["preprocessing"]["audio"]["sampling_rate"]
     for wav, basename in zip(wav_predictions, basenames):
-        wavfile.write(os.path.join(path, "{}.wav".format(basename)), sampling_rate, wav)
+        wavfile.write(os.path.join(path, "{}.wav".format(get_md5(basename))), sampling_rate, wav)
 
 
 def plot_mel(data, stats, titles):

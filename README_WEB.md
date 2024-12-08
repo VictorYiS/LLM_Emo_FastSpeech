@@ -1,0 +1,4 @@
+- 确保python generate_with_emotion.py能够运行及生成音频文件
+- 安装依赖`pip install -r requirements.txt`
+- 运行项目`python app.py`，默认端口为5001
+- 前端git地址为[gpt-voice-front](https://github.com/shaowanwan/gpt-voice-front)

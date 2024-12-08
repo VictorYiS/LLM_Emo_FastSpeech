@@ -16,7 +16,7 @@ from text import text_to_sequence
 from text.emotion import process_emotion
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
+SPLIT_LIMIT = 100
 
 def read_lexicon(lex_path):
     lexicon = {}
@@ -214,7 +214,7 @@ if __name__ == "__main__":
             collate_fn=dataset.collate_fn,
         )
     if args.mode == "single":
-        ids = raw_texts = [args.text[:100]]
+        ids = raw_texts = [args.text[:SPLIT_LIMIT]]
         speakers = np.array([args.speaker_id])
         emotion = np.array([process_emotion(args.emotion)])
         print(f"emotion={emotion}")
