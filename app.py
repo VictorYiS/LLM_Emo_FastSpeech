@@ -31,7 +31,7 @@ if proxy_url:
 synthesizer = SpeechSynthesizer()
 
 app = Flask(__name__)
-CORS(app)
+# CORS(app)
 
 # 配置 Flask 的 JSON 响应
 app.config['JSON_AS_ASCII'] = False  # 禁用 ASCII 编码
