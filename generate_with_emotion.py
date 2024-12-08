@@ -10,9 +10,9 @@ from utils.model import get_model, get_vocoder
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-def generate_emotions_args(text="I am happy", speaker_id=0, emotion="Happy"):
+def generate_emotions_args(text="Stop shouting at me", speaker_id=0, emotion="Neutral"):
     args_dict = {
-        "restore_step": 18000,
+        "restore_step": 540000,
         "mode": "single",
         "preprocess_config": "./config/ESD/preprocess.yaml",
         "model_config": "./config/ESD/model.yaml",

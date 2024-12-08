@@ -1,0 +1,512 @@
+0012_001120|0012|{T AA1 M N AW1 L EH1 T AA1 R AE1 R OW0 Z F L AY1}|tom now let our arrows fly!
+0015_000885|0015|{DH AH0 N Y UW1 B AO1 R N B EY1 B IY0 IH0 Z S T OW1 L AH0 N EH1 Z W IY1 G OW1}|the new born baby is stolen as we go.
+0015_001142|0015|{D IH0 Z DH AH1 W AH1 N DH AE1 T W IH1 N Z G IH1 T DH AH0 K R AW1 N D}|does the one that wins get the crowned?
+0017_000935|0017|{IH1 F N AA1 T AY1 SH AE1 L G OW1 N OW1 F ER1 DH ER0}|if not, i shall go no further.
+0013_001354|0013|{HH AW1 D UW1 Y UW1 L AY1 K Y UW1 D ER1 T IY0 B ER1 D}|how do you like you dirty bird!
+0015_000637|0015|{AH0 V OY1 S S EH1 D K AH1 M IH1 N}|a voice said: come in.
+0014_000762|0014|{T AA1 M W EH1 N T AA1 N spn G L UW1 M AH0 L IY0}|tom, went on eeyore gloomily.
+0013_000430|0013|{DH EH1 N DH EH1 R W AH0 Z AH0 R IH0 P AO1 R T}|then there was a report.
+0012_001131|0012|{AE1 N D AY1 N EH1 V ER0 HH AE1 D AH0 W UW1 P IH0 NG K AA1 F HH W AY1}|and i never had a whooping cough why.
+0014_001006|0014|{P L IY1 Z IH0 N V AY1 T T AA1 M IH0 F DH EH1 R IH0 Z N AA1 T R IY0 K W AY1 ER0 Z}|please invite tom if there is not requires.
+0017_001371|0017|{K AA1 L D AW1 T DH AH0 K L AW1 D}|called out the cloud.
+0014_000678|0014|{IH1 T W UH1 D B IY1 AH0 HH AA1 R D CH OY1 S}|it would be a hard choice.
+0013_001589|0013|{HH W EH1 N S AH1 CH W AA1 N D ER0 ER0 Z M IY1 T}|when such wanderers meet.
+0017_001057|0017|{AY1 M AE1 Z B AE1 D AE1 Z AY1 K AH0 N B IY0}|i'm as bad as i can be.
+0014_001171|0014|{F IH1 N AH0 N D DH AH0 F EH1 R IY0 SH UW1 M EY2 K ER0}|finn and the fairy shoemaker.
+0019_000737|0019|{AY1 TH IH1 NG K IH1 T AH0 L IH0 N K ER1 AH0 JH M IY1}|i think it'll encourage me.
+0011_000050|0011|{R AE1 B AH0 T G EY1 V D AA1 G AH0 HH ER1 IY0 IH0 NG AH1 P S AO1 R T AH0 V N AH1 JH}|rabbit gave dog a hurrying up sort of nudge.
+0014_000624|0014|{B IH0 K AH1 Z HH IY1 W AH0 Z AH0 M AE1 N W IH0 TH IH1 N F AH0 N AH0 T R IY1 S AO0 R S AH0 N D S AH0 G AE1 S AH0 T IY0}|because he was a man with infinite resource and sagacity.
+0011_000635|0011|{DH AH0 S T R AO1 CH AA1 R K OW2 L AE1 N D DH AH0 P IY1}|the straw, charcoal and the pea.
+0014_001031|0014|{SH IY1 L B IY0 F IY1 V ER0 IH0 SH AE1 F T ER0 S OW1 M AH1 CH TH IH1 NG K IH0 NG}|she'll be feverish after so much thinking.
+0019_001021|0019|{K AA1 L D AW1 T DH AH0 K L AW1 D}|called out the cloud.
+0016_000213|0016|{L EH1 T IH1 T G IH1 V AH1 S AH0 CH AE1 N S M AY1 P R EH1 SH AH0 S}|let it give us a chance, my precious.
+0011_001400|0011|{D UW1 Y UW1 HH AE1 V EH1 N IY0 TH IH2 NG IH0 N M AY1 N D}|do you have anything in mind?
+0016_000546|0016|{K L IH1 R AA1 R Y UH1 R AY1 Z AE1 N D B R AY1 T Y UH1 R B R EH1 TH}|clear are your eyes and bright your breath!
+0011_000359|0011|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N AH1 V L AE1 S T M AA1 R CH}|on the twenty second of last march.
+0014_000632|0014|{AE1 L AH0 S AY1 W OW1 N T F ER0 G EH1 T IH0 T AH0 G EH1 N}|alice i won't forget it again.
+0018_001047|0018|{HH W AH1 T AA1 R Y UW1 W EY1 T IH0 NG F AO1 R M AE1 N}|what are you waiting for? man.
+0014_001546|0014|{HH IY1 S EH1 D T AH0 JH AE1 K DH AH0 CH AE1 T ER0 ER0}|he said to jack, the chatterer.
+0020_000085|0020|{S AH0 P OW1 Z AY1 T EY1 K G R AE1 M AH2 DH ER0 AH0 F R EH1 SH V EH1 JH T AH0 B AH0 L}|suppose i take grandmother a fresh vegetable.
+0011_001376|0011|{DH EY1 AA1 R M EY1 D AH0 V W UH1 D}|they are made of wood.
+0015_001625|0015|{HH ER0 IH0 G Z IH1 S T AH0 N S M EY1 K S HH IH1 M P L EH1 Z AH0 N T}|her existence makes him pleasant.
+0020_000708|0020|{DH AE1 T W AH0 Z HH IH0 Z CH IY1 F TH AA1 T}|that was his chief thought.
+0011_000248|0011|{IH1 N W IH1 CH P IH1 G L IH0 T M IY1 T S AH0 N EH1 L AH0 F AH0 N T}|in which piglet meets an elephant.
+0014_000302|0014|{F AY1 V HH AH1 N D R AH0 D AE1 N D W AH1 N M IH1 L Y AH0 N R AY1 T}|five hundred and one million right?
+0018_000390|0018|{IH1 N W IH1 CH F AA1 K S L UW1 Z IH0 Z AH0 T EY1 L AE1 N D IH1 T S EH1 L D ER0 S IH1 S T ER0 F AY1 N D Z W AH1 N}|in which fox loses a tail and its elder sister finds one.
+0018_000479|0018|{AH0 L AA1 R JH F L AE1 T F EH1 R IY0 B OW1 T W AH0 Z M UH1 R D B IY2 S AY1 D IH0 T}|a large flat ferry boat was moored beside it.
+0015_001447|0015|{P L IY1 Z IH0 K S K Y UW1 Z M IY1}|please excuse me.
+0013_000473|0013|{AY1 EY1 EH1 M F R AH1 M T AW1 L L AE1 N D}|i am from towel land.
+0020_000207|0020|{HH W AH1 T AE1 M AY1 AY1 M AH0 R EY1 S ER0 S AH1 N AH0 V G AA1 D}|what am i, i'm a racer, son of god.
+0013_000480|0013|{AE1 N D W UH1 D S P OY1 L M AY1 JH OW1 K}|and would spoil my joke.
+0019_001713|0019|{G IH1 V M IY1 AH0 F AY1 N F AE1 T G UW1 S}|give me a fine fat goose.
+0020_001271|0020|{AY1 AE1 M AH0 S EH1 L F IH0 SH S IH1 N ER0}|i am a selfish sinner.
+0017_001313|0017|{SH IY1 S EH1 D IH0 N S AH0 B D UW1 D V OY1 S}|she said in subdued voice.
+0014_000383|0014|{DH IH1 S Y UW1 Z D T IH0 B IY0 JH EH1 R IY0 Z AA2 K Y AH0 P EY1 SH AH0 N}|this used to be jerry's occupation.
+0015_000094|0015|{DH EY1 F AW1 N D AH0 K AW1 G R EY1 Z IH0 NG IH0 N AH0 F IY1 L D}|they found a cow grazing in a field.
+0013_001132|0013|{AH0 F EH1 R JH AA1 K R AE1 K ER0 spn L AE1 NG G W IH0 JH M AH1 S T B IY0}|a fair jaw cracker dwarf language must be!
+0014_000777|0014|{B AH1 T AY1 S AA1 Y UW1 W AA1 K IH0 NG}|but i saw you walking.
+0014_001281|0014|{HH IY1 T OW1 L D M IY1 DH AH0 T AY1 AA1 T T AH0 CH EY1 N JH}|he told me that i ought to change.
+0018_000186|0018|{SH IY1 JH AH1 M P AE1 T DH AH0 T EY1 L AH0 N D B AY1 T IH1 T S AE1 V IH0 JH L IY0}|she jump at the tail and bite it savagely.
+0015_000736|0015|{HH AW1 AY1 HH EY1 T DH IH1 S F AW1 L P UW1 L}|how i hate this foul pool!
+0011_001734|0011|{AH0 N AH1 DH ER0 W AH1 N T EH1 N TH AW1 Z AH0 N D D AA1 L ER0 Z}|another one, ten thousand dollars.
+0013_000042|0013|{SH IY1 M EY1 M AY1 N D Y IY1 AH0 V HH ER0}|she may mind ye of her.
+0016_001318|0016|{HH IY1 SH OW1 D N OW1 S AY1 N Z AH0 V EY1 JH}|he showed no signs of age.
+0014_000139|0014|{K UW1 K UW0 Z IH1 Z spn AH0 N D K R AY1 IH0 NG}|cuckoos is downheaded and crying.
+0020_001538|0020|{B AH1 W AH1 N R IY0 K W AY1 R Z DH AH0 IH0 K S P L AO1 R ER0 T AH0 F ER1 N IH0 SH P R UW1 F S}|but one requires the explorer to furnish proofs.
+0014_001702|0014|{F AY1 V HH AH1 N D R AH0 D AH0 N D W AH1 N M IH1 L Y AH0 N R AY1 T}|five hundred and one million right?
+0018_001351|0018|{AY1 M SH UH1 R Y UH1 R F R EH1 N D Z K AE1 N W EY1 T}|i'm sure your friends can wait!
+0019_000359|0019|{AA1 N DH AH0 T W EH1 N IY0 S EH1 K AH0 N D AH0 V L AE1 S T M AA1 R CH}|on the twenty second of last march.
+0014_000185|0014|{DH AH0 N UW1 B AO1 R N B EY1 B IY0 IH1 Z S T OW1 L AH0 N AE1 Z W IY1 G OW1}|the new born baby is stolen as we go.
+0014_000475|0014|{T IH0 K AE1 CH DH AE1 T B UH1 L R AH0 SH R UW1 T W IH1 TH M AY1 P AA1}|to catch that bulrush root with my paw!
+0015_001229|0015|{D EY1 Z IY0 K R IY1 M Z W IH0 TH P IH1 NG K EH1 JH IH0 Z}|daisy creams with pink edges.
+0016_000170|0016|{B AH1 T IH1 F Y UW1 HH AE1 D AH0 N T D AH1 N DH EH1 M}|but if you hadn't done them.
+0018_001197|0018|{AE1 N D DH EH1 R Y UW1 L F AY1 N D AH0 S N AE1 P D R AE1 G AH0 N F L AY1}|and there you'll find a snap dragon fly.
+0014_000953|0014|{AY1 HH AE1 V AH0 S UW2 TH S EY1 ER0}|i have a soothsayer.
+0014_000360|0014|{AH0 N AO1 SH AH0 S D R AE1 F T}|a nauseous draught.
+0012_001167|0012|{DH EY1 W ER0 CH IH1 L D R AH0 N AH0 V M AY1 N}|they were children of mine.
+0014_001562|0014|{AY1 L EH1 N T JH AO1 R JH TH R IY1 P AW1 N Z}|i lent george three pounds.
+0012_001210|0012|{K IH1 T IY0 K AE1 N Y UW1 P L EY1 CH EH1 S}|kitty, can you play chess?
+0019_000008|0019|{DH AE1 T W AH0 Z HH IH0 Z CH IY1 F TH AA1 T}|that was his chief thought.
+0020_000750|0020|{R AE1 B AH0 T G EY1 V D AA1 G AH0 HH ER1 IY0 IH0 NG AH1 P S AO1 R T AH1 V N AH1 JH}|rabbit gave dog a hurrying up sort of nudge.
+0017_000310|0017|{HH W AY1 IH1 T IH1 Z JH AH1 S T L AY1 K DH AH0 R AW1 N D EH1 G W IH1 CH S AW1 N Z TH IH1 N}|why it is just like the round egg which sounds thin.
+0013_001248|0013|{AY1 D SH UW1 T M AY2 S EH1 L F AH0 P AA1 Z}|i'd shoot myself. a pause.
+0018_000274|0018|{B IH0 K AH1 Z HH IY1 W AH1 Z AH0 M AE1 N W IH0 TH IH1 N F AH0 N AH0 T R IY1 S AO0 R S AE1 N D S AH0 G AE1 S AH0 T IY0}|because he was a man with infinite resource and sagacity.
+0013_000029|0013|{R AE1 T K EY1 M AE1 N D R IH0 P L AY1 D AA1 N DH AH1 L IY1 V Z}|rat came and replied on the leaves.
+0013_000023|0013|{AY1 TH AA1 T Y UW1 M EH1 N T HH AW1 OW1 L D ER0 Y UW1}|i thought you meant how old are you?
+0016_000114|0016|{EY1 HH AE1 F P AW1 N D Z AH1 V F L AW1 ER0 AH0 N D T UW1 AW1 N S IH0 Z S UW1 T}|a half pounds of flour and two ounces suet.
+0015_000315|0015|{IH1 T S T UW1 S EY1 HH AW1 D UW1 Y UW1 D UW1 W IH0 TH T AA1 M Z AE1 N S ER0}|it's to say how do you do with tom's answer.
+0014_001037|0014|{B AH1 T M AA1 M AY1 M N AA1 T S ER1 T AH0 N AH0 B AW1 T}|but mom i'm not certain about.
+0016_001330|0016|{Y AO1 R P AE1 TH N AW1 G OW1 Z S AW1 TH}|your path now goes south.
+0011_000027|0011|{M AA1 N S T ER0 M EY1 D AH0 D IY1 P B AW1}|monster made a deep bow.
+0018_001619|0018|{B AH1 T DH AH0 T UW1 N IH1 Z AH0 N T HH IH1 Z OW1 N IH0 N V EH1 N SH AH0 N}|but the tune isn't his own invention.
+0020_000568|0020|{AY1 L S EH1 N D F R ER0 T AA1 M T AH0 M AY1 B UW1 D OY2 R}|i'll send for tom to my boudoir.
+0020_001398|0020|{D IH1 R K AH1 S T AH0 M ER0 W EH1 L K AH0 M T UW1 AW1 ER0 SH IH1 P}|dear customer,welcome to our ship.
+0017_000605|0017|{DH IH1 S W AH0 Z DH AH0 T W EH1 N IY0 F IH1 F TH AH0 V N OW0 V EH1 M B ER0 S EH1 V AH0 N T IY1 N EY1 T IY0 TH R IY1}|this was the twenty fifth of november, seventeen eighty three.
+0012_000738|0012|{HH OW1 L D AH1 P M AY1 CH IH1 N S L OW1 AH0 N D S AA1 L AH0 D}|hold up my chin, slow and solid.
+0016_000389|0016|{AA1 R TH AE1 NG K S T UW1 G AA1 D Z OW1 TH}|our thanks to god's oath.
+0020_001181|0020|{IH1 T M AH1 S T K AH1 M S AH1 M T AY2 M Z T UW1 JH AE1 M AH0 D EY1}|it must come sometimes to jam a day.
+0012_000617|0012|{CH AE1 P T ER0 IH0 L EH1 V AH0 N AA1 N DH AH0 D AO1 R S T EH2 P}|chapter eleven on the doorstep.
+0012_000489|0012|{K UW1 K UW0 Z IH1 Z spn AE1 N D K R AY1 IH0 NG}|cuckoos is downheaded and crying.
+0019_001673|0019|{AY1 D JH AH1 S T AE1 Z S UW1 N S W IH1 M Y UH1 R W EY1 AE1 Z AH1 DH ER0 Z D UW1}|i'd just as soon swim your way as others do.
+0018_001581|0018|{F ER1 S T IH1 SH UW0 AH0 R IY0 W AO1 R D}|first, issue a reward.
+0016_000845|0016|{R IY1 D B AY1 DH AH0 L IH1 V IH0 NG P UW1 L}|reed by the living pool!
+0012_000842|0012|{W EY1 K N AW1 M AY1 M EH1 R IY0 T AE1 D Z}|wake now my merry tads!
+0015_000763|0015|{AE1 S T ER0 OY2 D TH R IY1 HH AH1 N D R AH0 D AE1 N D T W EH1 N T IY0 F AY1 V}|asteroid three hundred and twenty five.
+0016_001126|0016|{DH AH0 HH AE1 G L UH1 K T IH0 N DH AH0 S T OW1 V}|the hag looked in the stove.
+0017_000778|0017|{DH AH0 AA1 R T K W AY1 T S EY1 F W IH0 TH M IY1}|the art quite safe with me.
+0018_000426|0018|{DH AH0 HH AE1 G L UH1 K T IH1 N DH AH0 S T OW1 V}|the hag looked in the stove.
+0017_001111|0017|{IH1 Z D EY1 SH AY1 R Y IH1 R}|midyear is day, shire year.
+0017_001000|0017|{S IH1 K S W AH0 Z HH AE1 F W EY1 D AW1 N DH AH0 R UW1 M}|six was half way down the room.
+0015_000972|0015|{N OW1 AH0 D M IH1 T AH0 N S IH0 K S EH1 P T AA1 N P AA1 R T IY0 B IH1 Z N AH0 S}|no admittance except on party business.
+0016_000739|0016|{AA1 R TH AE1 NG K S T AH0 G AA1 D Z OW1 TH}|our thanks to god's oath.
+0014_000620|0014|{CH UW1 L IY1 V Z K W IH1 K L IY0 S EH1 D R AE1 B AH0 T}|chew leaves quickly, said rabbit.
+0011_000236|0011|{HH AW1 R AE1 SH Y UW1 AA1 R}|how rash you are!
+0013_000905|0013|{F IH1 R N AY1 DH ER0 R UW1 T N AO1 R S P R AW1 T}|fear neither root nor sprout!
+0018_000083|0018|{B IY1 AA1 F N AW1 EH1 Z K W IH1 K AE1 Z Y UW1 M EY1}|be off now as quick as you may!
+0020_000599|0020|{Y UW1 M EY1 IH0 M AE1 JH AH0 N HH AW1 AY1 G EY1 P}|you may imagine how i gape.
+0020_000553|0020|{AY1 W AH0 Z N AA1 T G R AE1 B D}|i was not grabbed.
+0012_000104|0012|{HH IY1 R AE1 M AY1 HH UW1 M Y UW1 S IY1 K}|here am i whom you seek.
+0014_001499|0014|{AY1 V HH IH1 T DH AH0 R AO1 NG N OW1 Z}|i've hit the wrong nose.
+0018_000523|0018|{HH IY1 S ER1 CH T TH R UW1 DH AH0 B AA1 K S}|he searched through the box.
+0011_000330|0011|{SH IY1 K IY1 P S S EY1 IH0 NG AY1 M HH ER0 Z}|she keeps saying i'm hers.
+0013_000879|0013|{D EY1 Z IY0 K R IY1 M Z W IH0 TH P IH1 NG K EH1 JH IH0 Z}|daisy creams with pink edges.
+0013_000403|0013|{HH IY1 W AH0 Z S T IH1 L IH1 N DH AH0 F AO1 R AH0 S T}|he was still in the forest!
+0016_000792|0016|{D IH0 Z DH AH1 W AH1 N DH AE1 T W IH1 N Z G IH1 T DH AH0 K R AW1 N D}|does the one that wins get the crowned?
+0019_000458|0019|{DH AH0 S K W AY1 R HH IH0 M S EH1 L F SH OW1 D P ER1 F IH2 K T}|the squire himself showed perfect.
+0015_000976|0015|{K AE1 N Y UH1 R N EY1 M B IY0 M AO1 R HH IH0 L EH1 R IY0 AH0 S}|can your name be more hilarious?
+0015_001149|0015|{AY1 V HH IH1 T DH AH1 R AO1 NG N OW1 Z}|i've hit the wrong nose.
+0013_000044|0013|{T EY1 K K ER1 IH0 JH AO1 L IH0 Z AH0 N T L AA1 S T Y EH1 T}|take courage all isn't lost yet.
+0013_000858|0013|{IH1 T L UH1 K S M AH1 CH B EH1 T ER0}|it looks much better.
+0020_000206|0020|{S T IH1 L Y UW1 OW1 IH0 T AH0 D UW1 T IY0}|still you owe it a duty.
+0012_001367|0012|{AE1 T L EH1 NG K TH DH EY1 K EY1 M T UW1 AH0 SH AA1 R P B EH1 N D}|at length they came to a sharp bend.
+0017_000648|0017|{SH IY1 K AH1 M B AE1 K T AH0 DH AH0 V AE1 L IY0}|she come back to the valley.
+0020_001202|0020|{G IH1 L T IY0 F R ER0 W AH1 T D UW1 Y UW1 R UW1 L}|guilty for what do you rule?
+0019_000807|0019|{T AA1 M AH0 N D M AY1 K AH0 L W OW1 K AH1 P N EH1 K S T M AO1 R N IH0 NG}|tom and michael woke up next morning.
+0018_001536|0018|{SH IY1 HH AE1 Z IY1 T AH0 N DH AH0 T AE1 P IY0 OW1 K AH0 AA1 L AH0 V IH0 T}|she has eaten the tapioca all of it.
+0020_000245|0020|{D UW1 Y UW1 TH IH1 NG K IH1 T S AH0}|do you think it's a woozle?
+0012_000076|0012|{DH AH0 HH AE1 G L UH1 K T IH1 N DH AH0 S T OW1 V}|the hag looked in the stove.
+0011_000643|0011|{HH IY1 IH1 Z OW1 L D F AE1 SH AH0 N D B AH1 T HH IY1 IH1 Z DH AH0 B EH1 S T AH0 V M EH1 N}|he is old fashioned but he is the best of men.
+0015_000639|0015|{N OW1 S EH1 D P IH1 G IY0 K EH1 R L AH0 S L IY0}|no, said piggy carelessly.
+0016_000100|0016|{W EH1 L EH1 N IY0 HH AW2 IH1 T D IH1 D AH0 N T R EY1 N HH IY1 S EH1 D}|well anyhow it didn't rain, he said.
+0019_000229|0019|{DH AH0 F ER1 S T Y IH1 R DH EY1 S OW1 D R AY1}|the first year they sowed rye.
+0016_000895|0016|{AH0 B OW1 T P UH1 T AW1 T AA1 N DH AH0 B EY1}|a boat put out on the bay.
+0015_000011|0015|{CH AE1 P T ER0 T EH1 N AH0 W AO1 R M W EH1 L K AH0 M}|chapter ten a warm welcome.
+0013_000483|0013|{AY1 S M EH1 L DH AH1 B R EH1 TH AH0 V AH0 N IH1 NG G L IH0 SH}|i smell the breath of an english.
+0019_000557|0019|{HH W AH1 T AE1 M AY1 AY1 M AH0 R EY1 S ER0 S AH1 N AH0 V G AA1 D}|what am i, i'm a racer, son of god.
+0017_000197|0017|{F ER1 F L UW1 TH R UW1 DH AH0 EH1 R T IY1 TH N AE1 SH T}|fur flew through the air, teeth gnashed.
+0020_001688|0020|{SH IY1 HH AE1 Z F EH1 L T SH AY1 AH0 V IH1 T}|she has felt shy of it.
+0014_000509|0014|{S AH1 CH T UW1 N Z AA1 R JH OY1 T UW1 AH0 D AE1 N S IH0 NG F EY1}|such tunes are joy to a dancing fay.
+0016_000762|0016|{T AA1 M W EH1 N T AA1 N spn G L UW1 M AH0 L IY0}|tom, went on eeyore gloomily.
+0020_001735|0020|{B AH1 T TH IH1 NG Z HH AE1 V AH0 N T CH EY1 N JH Y EH1 T}|but things haven't change yet.
+0014_000399|0014|{DH EH1 N W IY1 AA1 L S EY1 AA2 HH AA1}|then we all say aha!
+0018_001180|0018|{AH0 N D W UH1 D S P OY1 L M AY1 JH OW1 K}|and would spoil my joke.
+0018_001427|0018|{M AA1 N S T ER0 M EY1 D AH0 D IY1 P B AW1}|monster made a deep bow.
+0016_001498|0016|{S EH1 D DH AH0 W IH1 CH}|said the witch.
+0015_001704|0015|{HH AW1 D UW1 Y UW1 L AY1 K Y UW1 D ER1 T IY0 B ER1 D}|how do you like you dirty bird!
+0020_001412|0020|{HH ER0 SH UW1 Z W ER0 L AY1 K F IH1 SH IH0 Z}|her shoes were like fishes.
+0017_000968|0017|{HH IY1 SH OW1 D N OW1 S AY1 N Z AH0 V EY1 JH}|he showed no signs of age.
+0017_001532|0017|{AY1 TH AE1 NG K Y UW1 F R ER0 DH IH1 S M ER1 S IY0}|i thank you for this mercy!
+0014_001738|0014|{P AA1 L Z T IY1 TH EY1 K T B IH0 K AH1 Z AH0 V L EH1 M AH0 N}|paul's teeth ached because of lemon.
+0012_001644|0012|{AA1 F F R ER0 DH AH0 P R IH1 Z AH0 N SH IH1 P}|off for the prison ship.
+0013_000215|0013|{HH IY1 L AY1 K S D R AE1 G AH0 N Z V EH1 R IY0 M AH1 CH}|he likes dragons very much.
+0012_000911|0012|{F R AH1 M IY1 CH K EY1 K DH EH1 R S P R AE1 NG AH0 HH Y UW1 JH D AA1 G}|from each cake, there sprang a huge dog.
+0020_001747|0020|{HH W AH1 T ER0 Y UW1 W EY1 T IH0 NG F AO1 R M AE1 N}|what are you waiting for? man.
+0020_000831|0020|{IH1 T M AH1 S T K AH1 M S AH1 M T AY2 M Z T UW1 JH AE1 M AH0 D EY1}|it must come sometimes to jam a day.
+0012_001189|0012|{K UW1 K UW0 Z IH0 Z spn AH0 N D K R AY1 IH0 NG}|cuckoos is downheaded and crying.
+0011_000186|0011|{SH IY1 JH AH1 M P AE1 T DH AH0 T EY1 L AH0 N D B AY1 T IH1 T S AE1 V IH0 JH L IY0}|she jump at the tail and bite it savagely.
+0018_001522|0018|{AE1 M AY1 AE1 N AE1 B S AH0 L UW2 T P AA1 P ER0}|am i an absolute pauper?
+0013_000306|0013|{P L IY1 Z IH0 N V AY1 T T AA1 M IH0 F DH EH1 R IH0 Z N AA1 T R IY0 K W AY1 R Z}|please invite tom if there is not requires.
+0017_000203|0017|{AY1 W AH1 Z N AA1 T G R AE1 B D}|i was not grabbed.
+0017_000991|0017|{DH IY0 EH1 N D AH0 V F EH1 B Y AH0 W EH2 R IY0 F AO1 R T IY1 N TH}|the end of february fourteenth.
+0013_001563|0013|{HH AW1 DH EY1 W EH1 N T T AH0 DH AH0 M AW1 N T AH0 N Z T IH0 IY1 T N AH1 T S}|how they went to the mountains to eat nuts.
+0017_000771|0017|{SH IY1 W AH0 Z B AO1 R N AA1 N EY1 P R AH0 L N AY1 N T IY1 N F AO1 R T IY0 TH R IY1}|she was born on april nineteen forty three.
+0019_001627|0019|{B AO1 R N W AH1 N S EH1 V R IY0 W AH1 N HH AH1 N D ER0 D Y IH1 R Z D AY1 Z IH0 N F L EY1 M Z}|born once every one hundred years, dies in flames!
+0011_000714|0011|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|annie please please don't hurt me!
+0018_000108|0018|{DH AH0 S K W AY1 R HH IH0 M S EH1 L F SH OW1 D P ER1 F IH2 K T}|the squire himself showed perfect.
+0020_001162|0020|{K L AW1 N T AH0 K AA1 L HH IH1 M JH OW1 IY0}|clown, to call him joey.
+0011_000490|0011|{HH W AH1 T AE1 N IH0 M P EH1 CH W AH0 S B OY1 HH IY1 IH0 Z}|what an impetuous boy he is!
+0016_001344|0016|{N AW1 AY1 AH2 N D ER0 S T AE1 N D}|now i understand.
+0019_000698|0019|{D IH1 R K AH1 S T AH0 M ER0 W EH1 L K AH0 M T UW1 AA1 R SH IH1 P}|dear customer,welcome to our ship.
+0011_000777|0011|{B AH1 T AY1 S AA1 Y UW1 W AA1 K IH0 NG}|but i saw you walking.
+0015_000511|0015|{DH AE1 T S AH0 F UH1 L G R OW1 N K OW1 L T}|that's a full grown colt.
+0014_000693|0014|{AE1 N D W AH1 T D IH0 Z IH1 T M IY1 N}|and what does it mean?
+0012_000051|0012|{S EH1 D DH IY0 AH0 M EH1 R IH0 K AH0 N T AH0 CH AY0 N IY1 Z}|said the american to chinese.
+0011_000296|0011|{Y UW1 W OW1 K M IY1 AH1 P}|you woke me up!
+0017_001552|0017|{G IH1 L T IY0 F R ER0 W AH1 T D UW1 Y UW1 R UW1 L}|guilty for what do you rule?
+0015_000044|0015|{T EY1 K K ER1 IH0 JH AA1 L IH0 Z AH0 N T L AA1 S T Y EH1 T}|take courage all isn't lost yet.
+0020_001438|0020|{HH OW1 L D AH1 P M AY1 CH IH1 N S L OW1 AH0 N D S AA1 L AH0 D}|hold up my chin, slow and solid.
+0012_001715|0012|{IH1 T S T IH0 S EY1 HH AW1 D UW1 Y UW1 D UW1 W IH0 TH T AA1 M Z AE1 N S ER0}|it's to say how do you do with tom's answer.
+0020_001079|0020|{R AE1 T K EY1 M AH0 N D R IH0 P L AY1 D AA1 N DH AH1 L IY1 V Z}|rat came and replied on the leaves.
+0018_000406|0018|{Y AO1 R M IH1 JH AH0 T W AY1 F N EH1 V ER0 K AH0 N S IH1 NG AH0 S AO1 NG}|your midget wife never can sing a song.
+0013_000740|0013|{IH1 N W IH1 CH F AA1 K S L UW1 Z IH0 Z AH0 T EY1 L AE1 N D IH0 T S EH1 L D ER0 S IH1 S T ER0 F AY1 N D Z W AH1 N}|in which fox loses a tail and its elder sister finds one.
+0020_000418|0020|{AY1 D UW1 N AA1 T IY1 T B R EH1 D}|i do not eat bread.
+0013_000438|0013|{IH1 N M AY1 AH0 P IH1 N Y AH0 N DH AE1 T IH1 Z AH0 G UH1 D AY0 D IY1 AH0}|in my opinion that-is a good idea!
+0018_001257|0018|{HH W AH1 T AE1 M AY1 AY1 M AH0 R EY1 S ER0 S AH1 N AH0 V G AA1 D}|what am i, i'm a racer, son of god.
+0020_001468|0020|{AY1 D UW1 N AA1 T IY1 T B R EH1 D}|i do not eat bread.
+0019_000977|0019|{DH IY0 EH1 N D P AA1 R T IH1 Z F IH1 SH M AW1 TH}|the end part is fish mouth.
+0015_000940|0015|{B OW1 TH S AY1 D W ER0 S AA1 F T L IY0 K ER1 V D}|both side were softly curved.
+0020_001614|0020|{B AH1 W AH1 T AH0 B AW1 T DH IH1 S TH IH1 NG S T IH1 K IY0}|but what about this thing, sticky!
+0020_001423|0020|{AY1 TH AA1 T Y UW1 M EH1 N T HH AW1 OW1 L D AA1 R Y UW1}|i thought you meant how old are you?
+0014_000416|0014|{SH AE1 L W IY1 L EH1 T B AA1 R B ER0 AH0 IH1 N}|shall we let barbara in?
+0020_000289|0020|{N OW1 S EH1 D P IH1 G IY0 K EH1 R L AH0 S L IY0}|no, said piggy carelessly.
+0014_001662|0014|{AY1 B IH0 L IY1 V Y UW1 ER0 W AH1 N AH0 V DH EH1 M}|i believe you are one of them!
+0013_000774|0013|{K AH1 M AA1 N M AY1 JH AE1 K IH0 N DH AH0 B AA1 K S IH0 Z}|come on my jack in the boxes!
+0014_001497|0014|{K AH0 N F EH1 S DH AH0 Y UW1 OW1 P AH0 N D DH AH0 TH ER1 T IY1 N TH D AO1 R}|confess that you opened the thirteenth door.
+0016_000223|0016|{P IH1 K P IH1 K P IH1 K}|pick, pick, pick!
+0013_000229|0013|{DH AH0 F ER1 S T Y IH1 R DH EY1 S OW1 D R AY1}|the first year they sowed rye.
+0013_001727|0013|{IH1 T S P AA1 R T AH0 V M AY1 S IY1 K R IH0 T}|it's part of my secret.
+0012_001601|0012|{AH0 L EY1 D IY0 IH1 Z AA1 N AE1 L AH0 S AH0 Z L AE1 P}|a lady, is on alice's lap!
+0012_001311|0012|{AE1 F T ER0 AH0 W AY1 L HH IY1 P ER0 S IY1 V D B OW1 TH JH AY1 AH0 N T S}|after a while he perceived both giants.
+0013_000424|0013|{K AH1 M AA1 N M AY1 JH AE1 K IH0 N DH AH1 B AA1 K S IH0 Z}|come on my jack in the boxes!
+0013_000845|0013|{R IY1 D B AY1 DH AH1 L IH1 V IH0 NG P UW1 L}|reed by the living pool!
+0017_000088|0017|{IH0 N M AY1 AH0 P IH1 N Y AH0 N DH AE1 T IH1 Z AH0 G UH1 D AY0 D IY1 AH0}|in my opinion that is a good idea!
+0014_001567|0014|{AY1 T OY1 W IH0 TH M AY1 L IH0 K ER1}|i toy with my liqueur.
+0018_000600|0018|{HH ER0 K AY1 N D AE1 N D F ER1 M G L AE1 N S}|her kind and firm glance.
+0018_000170|0018|{B AH1 T IH1 F Y UW1 HH AE1 D AH0 N T D AH1 N DH EH1 M}|but if you hadn't done them.
+0020_000973|0020|{AY1 D JH IH0 S T EH1 Z S UW1 N S W IH1 M Y UH1 R W EY1 AE1 Z AH1 DH ER0 Z D UW1}|i'd just as soon swim your way as others do.
+0014_000844|0014|{W IY1 AA1 L S IY1 P AE1 N D AH0 AA1 N spn AO1 R IH0 N DH AH0 Z UW1}|we all see panda on tv or in the zoo.
+0015_001560|0015|{K IH1 T IY0 K AH0 N Y UW1 P L EY1 CH EH1 S}|kitty, can you play chess?
+0014_001526|0014|{DH IH1 S T ER1 N G OW1 Z T AH0 DH AH0 HH IH1 L}|this turn goes to the hill.
+0019_001339|0019|{N OW1 S EH1 D P IH1 G IY0 K EH1 R L AH0 S L IY0}|no, said piggy carelessly.
+0014_000919|0014|{B AH1 T DH AH0 T UW1 N IH1 Z AH0 N HH IH1 Z OW1 N IH0 N V EH1 N SH AH0 N}|but the tune isn't his own invention.
+0013_000861|0013|{DH AE1 T S AH0 F UH1 L G R OW1 N K OW1 L T}|that's a full grown colt.
+0017_001123|0017|{HH AW1 S AH0 S P IH1 SH AH0 S DH IH1 S F AA1 K S}|how suspicious this fox.
+0016_000431|0016|{AE1 N D AY1 N EH1 V ER0 HH AE1 D AH0 W UW1 P IH0 NG K AA1 F W AY1}|and i never had a whooping cough why.
+0015_000347|0015|{HH W AH1 T ER0 Y UW1 W EY1 T IH0 NG F AO1 R M AE1 N}|what are you waiting for? man.
+0019_001609|0019|{AH0 R EY1 JH IH0 NG F AY1 ER0 W AH0 Z IH1 N HH IH1 Z AY1 Z}|a raging fire was-in his eyes.
+0012_000185|0012|{DH AH0 N Y UW1 B AO1 R N B EY1 B IY0 IH0 Z S T OW1 L AH0 N AE1 Z W IY1 G OW1}|the new born baby is stolen as we go.
+0014_000019|0014|{AE1 T DH IY0 EH1 N D AH1 V F AO1 R}|at the end of four.
+0014_001271|0014|{AY1 AE1 M AH0 S EH1 L F IH0 SH S IH1 N ER0}|i am a selfish sinner.
+0015_000659|0015|{HH IY1 OW1 D M IH1 S T ER0 L AA1 S AH0 N AY1 K AE1 N T T EH1 L Y UW1 HH AW1}|he owed mister lawson, i can't tell you how.
+0016_001349|0016|{HH IH1 Z HH OW1 P W AH0 L CH IY1 T HH IH1 M}|his hope will cheat him.
+0019_001504|0019|{HH IY1 R AE1 M AY1 HH UW1 M Y UW1 S IY1 K}|here am i whom you seek.
+0020_000929|0020|{DH AH1 F ER1 S T Y IH1 R DH EY1 S OW1 D R AY1}|the first year they sowed rye.
+0016_001109|0016|{Z IH1 R OW0 F AO1 R TH R IY1 AH0 S IH1 L V ER0 SH IH1 L IH0 NG IH1 Z JH ER1 N IY0}|zero four three a silver shilling is journey.
+0013_001532|0013|{AY1 TH AE1 NG K Y UW1 F ER0 DH IH1 S M ER1 S IY0}|i thank you for this mercy!
+0014_001585|0014|{DH AH0 N UW1 B AO1 R N B EY1 B IY0 IH1 Z S T OW1 L AH0 N AE1 Z W IY1 G OW1}|the new born baby is stolen as we go.
+0012_000532|0012|{EY1 JH F AO1 R T IY0 F AY1 V IH1 F AH0 D EY1 AH0 L AY1}|age forty five if a day a lie.
+0011_001141|0011|{W IY1 IH0 K S P EH1 K T IH0 D T AA1 M W UH1 D JH AH1 M P F ER0 JH OY1}|we expected tom would jump for joy.
+0013_000031|0013|{AO1 L S M AY1 L W ER0 R IY1 L AH0 N D DH AH0 HH AE1 P IY0 ER0 DH AH1 M AO1 R S IH0 N S IH1 R}|all smile were real and the happier,the more sincere .
+0013_000751|0013|{S EH1 D DH IY0 AH0 M EH1 R IH0 K AH0 N T AH0 CH AY0 N IY1 Z}|said the american to chinese.
+0012_000861|0012|{DH AE1 T S AH0 F UH1 L G R OW1 N K OW1 L T}|that's a full grown colt.
+0019_001053|0019|{DH AE1 T AY1 OW1 M AY1 TH AE1 NG K S T UW1 Y UW1}|that i owe my thanks to you.
+0017_001343|0017|{HH IY1 IH1 Z OW1 L D F AE1 SH AH0 N D B AH1 T HH IY1 IH1 Z DH AH0 B EH1 S T AH0 V M EH1 N}|he is old fashioned but he is the best of men.
+0020_000236|0020|{HH AW1 R AE1 SH Y UW1 AA1 R}|how rash you are!
+0016_000641|0016|{DH IY0 EH1 N D AH1 V F EH1 B Y AH0 W EH2 R IY0 F AO1 R T IY1 N TH}|the end of february fourteenth.
+0012_000019|0012|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|at the end of four.
+0013_000398|0013|{Y UW1 ER0 N AA1 T AH0 R AH1 N AH0 W EY2 HH UW1 AA1 R Y UW1}|you are not a runaway,who are you?
+0014_000294|0014|{N AW1 AY1 AH2 N D ER0 S T AE1 N D}|now i understand.
+0015_000394|0015|{T EY1 K K ER1 IH0 JH AA1 L IH0 Z AH0 N T L AA1 S T Y EH1 T}|take courage all isn't lost yet.
+0011_000780|0011|{DH EH1 N DH EH1 R W AH1 Z AH0 R IH0 P AO1 R T}|then there was a report.
+0012_000953|0012|{AY1 HH AE1 V AH0 S UW2 TH S EY1 ER0}|i have a soothsayer.
+0011_000014|0011|{AE1 N IY0 P L IY1 Z P L IY1 Z D OW1 N HH ER1 T M IY1}|annie please please don't hurt me!
+0020_001498|0020|{S EH1 D DH AH1 W IH1 CH}|said the witch.
+0017_000140|0017|{HH W AH1 T AH0 N IH0 M P EH1 CH W AH0 S B OY1 HH IY1 IH0 Z}|what an impetuous boy he is!
+0015_001746|0015|{AY1 AE1 M G OW1 IH0 NG T IH0 B AE1 K HH OW1 M}|i am going to back home.
+0014_000542|0014|{AY1 HH AE1 V HH AE1 D T AH0 G R OW1 OW1 L D}|i have had to grow old.
+0014_001600|0014|{DH AE1 T K L AO1 TH D IH0 Z N AA1 T L UH1 K W ER1 TH M AH1 CH}|that cloth does not look worth much!
+0011_001250|0011|{DH AE1 T K L AO1 TH D IH0 Z N AA1 T L UH1 K L AY1 K W ER1 TH M AH1 CH}|that cloth does not look like worth much!
+0012_000174|0012|{AY1 P EY1 HH AE1 F AH0 K R AW1 N AH0 W IY1 K EH1 K S T R AH0}|i pay half a crown a week extra.
+0018_000599|0018|{Y UW1 M EY1 IH0 M AE1 JH AH0 N HH AW1 AY1 G EY1 P}|you may imagine how i gape.
+0015_001719|0015|{HH AW1 K UH1 D AY1 D IH1 G B ER1 OW0 Z W IH0 TH SH AO1 R T T OW1 N EY1 L Z}|how could i dig burrows with short toe nails?
+0018_000064|0018|{AE1 N D W IY1 AA1 R S OW1 TH ER1 S T IY0}|and we are so thirsty!
+0020_000674|0020|{AE1 N D SH IY1 K AA1 T AE1 T DH AH0 B R UW1 CH}|and she caught at the brooch.
+0016_001587|0016|{AE1 N AW1 ER0 AW1 T AH0 V G IH1 L D F ER0 D T AW1 N}|an hour out of guildford town.
+0019_000972|0019|{N OW1 AH0 D M IH1 T AH0 N S IH0 K S EH1 P T AA1 N P AA1 R T IY0 B IH1 Z N AH0 S}|no admittance except on party business.
+0013_000036|0013|{HH AW1 AY1 HH EY1 T DH IH1 S F AW1 L P UW1 L}|how i hate this foul pool!
+0020_001366|0020|{AH0 TH IY1 F IH0 N DH AH0 N AY1 T}|a thief in the night.
+0018_000379|0018|{R AE1 T K EY1 M AH0 N D R IY0 P L AY1 D AA1 N DH AH1 L IY1 V Z}|rat came and replied on the leaves.
+0015_001444|0015|{T EY1 K K ER1 IH0 JH AA1 L IH0 Z AH0 N T L AA1 S T Y EH1 T}|take courage all isn't lost yet.
+0019_001719|0019|{HH AW1 K UH1 D AY1 D IH1 G B ER1 OW0 Z W IH0 DH SH AO1 R T T OW1 N EY1 L Z}|how could i dig burrows with short toe nails?
+0016_000186|0016|{SH IY1 JH AH1 M P AE1 T DH AH0 T EY1 L AE1 N D B AY1 T IH1 T S AE1 V IH0 JH L IY0}|she jump at the tail and bite it savagely.
+0018_001495|0018|{AA2 HH AA1 HH W AH1 T AY1 HH AE1 V W IY1 HH IY1 R}|aha what i have we here?
+0018_000872|0018|{AY1 SH AE1 L S EY1 G UH1 D B AY1}|i shall say good bye.
+0012_000583|0012|{HH W AY1 SH UH1 D AY1 K EH1 R DH OW1 D EY1 V IH0 D Z L IH1 P S W ER0 T W IH1 CH IH0 NG}|why should i care though david's lips were twitching?
+0018_000220|0018|{HH ER0 P AO1 W EH1 N T IH0 N T UW1 Y UH1 R AY1}|her paw went into your eye?
+0013_000336|0013|{OW1 V ER0 DH EH1 M S W UW1 P T DH IY0 IY1 G AH0 L Z}|over them swooped the eagles.
+0013_000463|0013|{M IH1 S T ER0 L AA1 S AH0 N S AA1 JH AO1 R JH L AE1 S T N AY1 T}|mister lawson saw george last night.
+0017_001545|0017|{R IY1 D B AY1 DH AH0 L IH1 V IH0 NG P UW1 L}|reed by the living pool!
+0020_000885|0020|{DH AH0 N UW1 B AO1 R N B EY1 B IY0 IH1 Z S T OW1 L AH0 N EH1 Z W IY1 G OW1}|the new born baby is stolen as we go.
+0017_001578|0017|{AE1 N D V AW1 D HH IY1 D CH EY1 N JH DH AH0 P IH1 G T EY2 L Z P L EY1 S}|and vowed he'd change the pigtail's place.
+0016_000254|0016|{SH IY1 L AE1 F T}|she laughed.
+0011_000752|0011|{F R AH1 M AO1 G AH0 S T EY1 T IY1 N TH AH1 V DH EH1 R D IH0 V AO1 R S}|from august eighteenth, of their divorce.
+0012_000844|0012|{W IY1 AA1 L S IY1 P AE1 N D AH0 AA1 N spn AO1 R IH0 N DH AH0 Z UW1}|we all see panda on tv or in the zoo.
+0019_001492|0019|{D AH1 Z DH AH0 W AH1 N DH AE1 T W IH1 N Z G IH1 T DH AH0 K R AW1 N D}|does the one that wins get the crowned?
+0017_000209|0017|{AH0 R EY1 JH IH0 NG F AY1 ER0 W AH0 Z IH0 N HH IH1 Z AY1 Z}|a raging fire was in his eyes.
+0013_001364|0013|{B AA1 B G OW1 Z T UW1 AH0 N UW1 S K UW1 L}|bob goes to a new school.
+0020_000161|0020|{DH AE1 T S AH0 F UH1 L G R OW1 N K OW1 L T}|that's a full grown colt.
+0018_001370|0018|{G OW1 T B IH1 L IY0 AE1 S T DH IY0 OW1 L D CH AY0 N IY1 Z G AY1}|goat billy asked the old chinese guy.
+0019_000349|0019|{HH W AH1 T D UW1 Y UW1 TH IH1 NG K AH0 V DH IH1 S K W EH1 S CH AH0 N}|what do you think of this question?
+0017_001350|0017|{S IH1 K S W AH0 Z HH AE1 F W EY1 D AW1 N DH AH0 R UW1 M}|six was half way down the room.
+0020_001584|0020|{W IY1 HH AE1 V B IH1 N F AY1 N HH AE1 V AH0 N T W IY1}|we have been fine, haven't we?
+0011_000102|0011|{DH IH1 S IH0 Z JH AE1 K DH AH0 R EH1 L AH0 T IH0 V Z AH0 V T AA1 M}|this is jack, the relatives of tom.
+0012_000626|0012|{K AH0 N Y UH1 R N EY1 M B IY0 M AO1 R HH IH0 L EH1 R IY0 AH0 S}|can your name be more hilarious?
+0018_001249|0018|{K AE1 P T AH0 N T AA1 M R IY0 S IY1 V Z AH0 N AE1 NG G R IY0 L EH1 T ER0}|captain tom receives an angry letter.
+0017_000101|0017|{IH1 T S M IY1 spn HH EH1 L P HH EH1 L P}|it's me piglit, help help!
+0013_001097|0013|{P L IY1 Z IH0 K S K Y UW1 Z M IY1}|please excuse me.
+0017_000973|0017|{AY1 D JH AH1 S T EH1 Z S UW1 N S W IH1 M Y UH1 R W EY1 AE1 Z AH1 DH ER0 Z D UW1}|i'd just as soon swim your way as others do.
+0015_000226|0015|{AE1 N D DH AH0 N EH1 K S D EY1 N ER1 S W AH0 L B IY0 R IY0 L IY1 S T}|and the next day. nurse will be released.
+0012_001316|0012|{W IY1 M EY1 JH OY1 N W IH0 TH DH AE1 T P AW1 ER0}|we may join with that power.
+0014_000538|0014|{N AW1 K W IH1 K ER0 DH AH0 F IH1 D AH0 L W EH1 N T}|now quicker the fiddle went.
+0017_000131|0017|{IH1 T M AH1 S T K AH1 M S AH1 M T AY2 M Z T AH0 JH AE1 M AH0 D EY1}|it must come sometimes to jam a day.
+0017_001613|0017|{L EH1 T IH0 G IH1 V AH1 S AH0 CH AE1 N S M AY1 P R EH1 SH AH0 S}|let it give us a chance, my precious.
+0020_000253|0020|{AY1 HH AE1 V AH0 S UW2 TH S EY1 ER0}|i have a soothsayer.
+0017_000048|0017|{Y UW1 AA1 R N AA1 T AH0 R AH1 N AH0 W EY2 HH UW1 AA1 R Y UW1}|you are not a runaway,who are you?
+0020_000102|0020|{DH IH1 S IH0 Z JH AE1 K DH AH0 R EH1 L AH0 T IH0 V Z AH1 V T AA1 M}|this is jack, the relatives of tom.
+0014_000343|0014|{AE1 N D W AH1 T D IH0 Z IH0 T M IY1 N}|and what does it mean?
+0012_000719|0012|{AE1 T DH IY0 EH1 N D AH0 V F AO1 R}|at the end of four.
+0011_000779|0011|{AO1 L M AY1 G AH1 M T IH1 P S G AA1 N AE1 Z W EH1 L}|all my gum tips gone as well.
+0015_000878|0015|{AE1 N D V AW1 D HH IY1 D CH EY1 N JH DH AH0 P IH1 G T EY2 L Z P L EY1 S}|and vowed he'd change the pigtail's place.
+0016_001415|0016|{P UW1 R T AA1 M N AW1 IH1 Z D EH1 D}|poor tom now is dead!
+0017_000801|0017|{IH0 T S M IY1 spn HH EH1 L P HH EH1 L P}|it's me piglit, help help!
+0018_000209|0018|{AH0 R EY1 JH IH0 NG F AY1 ER0 W AH0 Z IH0 N HH IH1 Z AY1 Z}|a raging fire was in his eyes.
+0013_001428|0013|{SH IY1 HH AE1 D S EH1 D S OW1 DH AE1 T W AH1 N K UH1 D K IY1 P AH1 P AH0 K AA2 N V ER0 S EY1 SH AH0 N}|she had said, so that one could keep up a conversation!
+0016_001358|0016|{P ER0 HH AE1 P S Y UW1 TH IH1 NG K DH AE1 T IH1 Z AH0 K W IH1 R T AY1 T AH0 L F ER0 DH IH1 S CH AE1 P T ER0}|perhaps you think that is a queer title for this chapter.
+0020_000186|0020|{SH IY1 JH AH1 M P AE1 T DH AH0 T EY1 L AH0 N D B AY1 T IH1 T S AE1 V IH0 JH L IY0}|she jump at the tail and bite it savagely.
+0013_000094|0013|{DH EY1 F AW1 N D AH0 K AW1 G R EY1 Z IH0 NG IH0 N AH0 F IY1 L D}|they found a cow grazing in a field.
+0020_000993|0020|{HH IY1 IH1 Z OW1 L D F AE1 SH AH0 N D B AH1 T HH IY1 IH1 Z DH AH0 B EH1 S T AH0 V M EH1 N}|he is old fashioned but he is the best of men.
+0012_001578|0012|{AE1 N D V AW1 D HH IY1 D CH EY1 N JH DH AH0 P IH1 G T EY2 L Z P L EY1 S}|and vowed he'd change the pigtail's place.
+0014_001742|0014|{HH W AY1 SH UH1 D AY1 P ER1 CH AH0 S M AY1 OW1 N}|why should i purchase my own?
+0014_001133|0014|{B IY1 AA1 F N AW1 K W IH1 K Y UW1 M EY1}|be off now quick you may!
+0019_001486|0019|{AE1 N D T IH1 K AH0 T AE1 K T UW1}|and tick a tack too.
+0019_000966|0019|{W IY1 M EY1 JH OY1 N W IH1 TH DH AE1 T P AW1 ER0}|we may join with that power.
+0014_001097|0014|{P L IY1 Z IH0 K S K Y UW1 Z M IY1}|please excuse me.
+0012_001732|0012|{HH W EH1 R AA1 R Y UW1 G OW1 IH0 NG}|where are you going?
+0019_000164|0019|{HH IH1 Z L AA1 R JH M AW1 TH K ER1 L D IH0 N T UW1 AH0 S N IH1 R}|his large mouth curled into a sneer.
+0013_001344|0013|{N AW1 AY1 AH2 N D ER0 S T AE1 N D}|now i understand.
+0018_001289|0018|{DH IH1 S IH0 Z DH AH1 W EY1 DH AE1 T S N EY1 K S AO1 L W IY0 Z T AA1 K}|this is the way that snakes always talk.
+0014_000033|0014|{DH IH1 S Y UW1 Z D T AH0 B IY0 JH EH1 R IY0 Z AA2 K Y AH0 P EY1 SH AH0 N}|this used to be jerry's occupation.
+0018_001639|0018|{DH IH1 S IH0 Z DH AH0 W EY1 DH AE1 T S N EY1 K S AO1 L W IY0 Z T AA1 K}|this is the way that snakes always talk.
+0013_001040|0013|{S OW1 T AA1 M S AA1 N AY1 T EH1 Z IH1 T W ER0 B R AA1 D D EY1 L AY2 T}|so tom saw night as it were broad daylight.
+0012_000604|0012|{SH IY1 L AE1 F T}|she laughed.
+0018_000919|0018|{B AH1 T DH AH0 T UW1 N IH1 Z AH0 N T HH IH1 Z OW1 N IH0 N V EH1 N SH AH0 N}|but the tune isn't his own invention.
+0011_000013|0011|{AY1 HH AE1 V spn AA1 L OW1 V ER0 G OW1 T AA1 N T UW1 S EH1 P R AH0 T AH0 K EY1 ZH AH0 N Z}|i have bunburyed all over goat on two separate occasions.
+0018_000489|0018|{K UW1 K UW0 Z IH1 Z spn AE1 N D K R AY1 IH0 NG}|cuckoos is downheaded and crying.
+0017_001204|0017|{HH IY1 D R EH1 M T DH EH1 M AA1 L N AY1 T}|he dreamt them all night.
+0011_001422|0011|{AE1 N D W AH1 T AA1 R D AH1 V Z AE1 N D W AH1 T AA1 R D AH1 V Z}|and what are doves. and what are doves.
+0011_000493|0011|{P UH1 S IY0 K AH0 N S IH1 T B AY1 DH AH0 F AY1 R AH0 N D S IH1 NG}|pussy can sit by the fire and sing.
+0013_001288|0013|{T AH0 D EY1 IH1 Z AH0 N T EH1 N IY0 AH1 DH ER0 D EY1}|today isn't any other day.
+0011_001453|0011|{HH IY1 W AH0 Z S T IH1 L IH0 N DH AH1 F AO1 R AH0 S T}|he was still in the forest!
+0019_000567|0019|{Y UW1 K R UW1 AH0 L T IY0 SH AE1 L K AA1 S T Y AO1 R L AY1 F}|you cruelty shall cost your life !
+0014_001201|0014|{AA1 L DH AH1 W EY1 T AH0 CH AY1 N AH0 IH1 Z HH OW1 M}|all the way to china is home.
+0017_000528|0017|{AE1 N D V AW1 D HH IY1 D CH EY1 N JH DH AH0 P IH1 G T EY2 L Z P L EY1 S}|and vowed he'd change the pigtail's place.
+0014_001279|0014|{DH AH0 F ER1 S T Y IH1 R DH EY1 S OW1 D R AY1}|the first year they sowed rye.
+0018_000319|0018|{HH AW1 K UH1 D AY1 D IH1 G B ER1 OW0 Z W IH0 TH SH AO1 R T T OW1 N EY1 L Z}|how could i dig burrows with short toe nails?
+0013_001613|0013|{L EH1 T IH1 T G IH1 V AH1 S AH0 CH AE1 N S M AY1 P R EH1 SH AH0 S}|let it give us a chance, my precious.
+0018_001190|0018|{HH W AH1 T AH0 N IH0 M P EH1 CH W AH0 S B OY1 HH IY1 IH0 Z}|what an impetuous boy he is!
+0013_001296|0013|{W IY1 K AE1 N N AA1 T D UW1 IH0 T S ER1}|we can not do it sir.
+0016_000743|0016|{S T AO1 R IY0 T W EH1 N T IY0 N AY1 N AH0 B OY1 AE1 N D AH0 M AH1 NG K IY0}|story twenty nine a boy and a monkey.
+0012_000258|0012|{M AH1 M SH AH1 T S W AH1 N Z M AW1 TH AH1 P D AH1 Z AH0 N IH0 T}|mum shuts one's mouth up, doesn't it.
+0017_000039|0017|{AW1 ER0 TH AE1 NG K S T AH0 G AA1 D Z OW1 TH}|our thanks to god's oath.
+0018_001004|0018|{HH AW1 D UW1 Y UW1 L AY1 K Y UW1 D ER1 T IY0 B ER1 D}|how do you like you dirty bird!
+0016_000666|0016|{AH0 TH IY1 F IH0 N DH AH0 N AY1 T}|a thief in the night.
+0019_001475|0019|{AY1 D F AA1 R R AE1 DH ER0 G OW1 W IH0 TH AW1 T DH EH1 M DH AE1 N IY1 T DH EH1 M}|i'd far rather go without them than eat them!
+0016_001117|0016|{AY1 S AH0 P OW1 Z N OW1 IH1 T D AH1 Z AH0 N T}|i suppose no, it doesn't!
+0016_000551|0016|{AH0 L EY1 D IY0 IH0 Z AA1 N AE1 L AH0 S AH0 Z L AE1 P}|a lady, is on alice's lap!
+0013_000963|0013|{SH IY1 S EH1 D IH0 N S AH0 B D UW1 D V OY1 S}|she said in subdued voice.
+0018_001446|0018|{DH EY1 D N EH1 V ER0 N OW1 AY1 D R EH1 G Y AH0 L ER0 R AE1 N AH0 W EY1}|they'd never know i'd regular ran away.
+0013_000060|0013|{DH AE1 T AY1 AE1 M AH0 B AO1 R N N ER1 S}|that i am a born nurse.
+0017_000572|0017|{AE1 S K G AA1 D T AH0 HH EH1 L P Y UW1}|ask god to help you.
+0012_001136|0012|{AE1 N D T IH1 K AH0 T AE1 K T UW1}|and tick a tack too.
+0011_000126|0011|{W IH1 L DH IH1 S T ER1 N G OW1 Z T AH0 DH AH0 HH IH1 L}|will this turn goes to the hill.
+0018_001431|0018|{AA1 L S M AY1 L W ER0 R IY1 L AH0 N D DH AH0 HH AE1 P IY0 ER0 DH AH0 M AO1 R S IH0 N S IH1 R}|all smile were real and the happier,the more sincere .
+0017_000826|0017|{DH IH1 S T ER1 N G OW1 Z T AH0 DH AH0 HH IH1 L}|this turn goes to the hill.
+0020_001373|0020|{HH W AY1 D IH0 D AY1 W EY1 K AH1 P}|why did i wake up!
+0017_000433|0017|{B IY1 AA1 F N AW1 EH1 Z K W IH1 K EH1 Z Y UW1 M EY1}|be off now as quick as you may!
+0011_001273|0011|{P IH1 K P IH1 K P IH1 K}|pick, pick, pick!
+0013_000605|0013|{DH IH1 S W AH0 Z DH AH0 T W EH1 N IY0 F IH1 F TH AH0 V N OW0 V EH1 M B ER0 S EH1 V AH0 N T IY1 N EY1 T IY0 TH R IY1}|this was the twenty fifth of november, seventeen eighty three.
+0015_000784|0015|{B AY1 HH UH1 K AO1 R B AY1 K R UH1 K}|by hook or by crook.
+0016_000590|0016|{B OW1 TH S AY1 D W ER0 S AA1 F L IY0 K ER1 V D}|both side were softly curved.
+0016_000345|0016|{EY1 W ER1 IH0 NG N OY1 Z W AH0 Z HH ER1 D}|a whirring noise was heard.
+0018_000281|0018|{HH IY1 K UH1 D N AA1 T HH EH1 L P D UW1 IH0 NG S OW1}|he could not help doing so.
+0020_000669|0020|{HH AW1 K UH1 D AY1 D IH1 G B ER1 OW0 Z W IH0 TH SH AO1 R T T OW1 N EY1 L Z}|how could i dig burrows with short toe nails?
+0013_000798|0013|{S EH1 D DH AH0 W IH1 CH}|said the witch.
+0020_001493|0020|{T UW1 B AY1 T UW1 P AO1 R K CH AA1 P S}|to buy two pork chops.
+0015_000893|0015|{P L IY1 Z HH AY1 ER0 M IY1 AE1 F T ER0 Y UW1}|please hire me after you.
+0011_001629|0011|{DH AH0 F ER1 S T Y IH1 R DH EY1 S OW1 D R AY1}|the first year they sowed rye.
+0019_001693|0019|{HH IY1 IH1 Z OW1 L D F AE1 SH AH0 N D B AH1 T HH IY1 IH1 Z DH AH0 B EH1 S T AH0 V M EH1 N}|he is old fashioned but he is the best of men.
+0013_000389|0013|{AA1 R TH AE1 NG K S T AH0 G AA1 D Z OW1 TH}|our thanks to god's oath.
+0012_000302|0012|{F AY1 V HH AH1 N D R IH0 D AE1 N D W AH1 N M IH1 L Y AH0 N R AY1 T}|five hundred and one million right?
+0015_001553|0015|{B AH1 T W IY1 AA1 R N AA1 T HH AY1 Y EH1 T}|but we are not high yet.
+0014_000727|0014|{M AA1 N S T ER0 M EY1 D AH0 D IY1 P B AW1}|monster made a deep bow.
+0019_000996|0019|{Y UW1 W OW1 K M IY1 AH1 P}|you woke me up!
+0015_000206|0015|{S T IH1 L Y UW1 OW1 IH0 T AH0 D UW1 T IY0}|still you owe it a duty.
+0020_000436|0020|{AE1 N D T IH1 K AH0 T AE1 K T UW1}|and tick a tack too.
+0012_001344|0012|{N AW1 AY1 AH2 N D ER0 S T AE1 N D}|now i understand.
+0016_000535|0016|{DH IY0 N Y UW1 B AO1 R N B EY1 B IY0 IH0 Z S T OW1 L AH0 N AE1 Z W IY1 G OW1}|the new born baby is stolen as we go.
+0019_000335|0019|{B AH1 T TH IH1 NG Z HH AE1 V AH0 N CH EY1 N JH Y EH1 T}|but things haven't change yet.
+0016_001385|0016|{B AH1 T TH IH1 NG Z HH AE1 V AH0 N T CH EY1 N JH Y EH1 T}|but things haven't change yet.
+0018_001440|0018|{IH0 N W IH1 CH F AA1 K S L UW1 Z IH0 Z AH0 T EY1 L AE1 N D IH0 T S EH1 L D ER0 S IH1 S T ER0 F AY1 N D Z W AH1 N}|in which fox loses a tail and its elder sister finds one.
+0015_001058|0015|{DH AE1 T W AH1 Z HH IH0 Z CH IY1 F TH AA1 T}|that was his chief thought.
+0012_001103|0012|{HH IY1 W AH0 Z S T IH1 L IH0 N DH AH0 F AO1 R AH0 S T}|he was still in the forest!
+0012_001521|0012|{F IH1 N AE1 N D DH AH0 F EH1 R IY0 SH UW1 M EY2 K ER0}|finn and the fairy shoemaker.
+0011_000468|0011|{L UH1 K AW1 T S EH1 D AE1 L AH0 S}|look out! said alice.
+0020_001543|0020|{P UH1 S IY0 K AE1 N S IH1 T B AY1 DH AH1 F AY1 R AH0 N D S IH1 NG}|pussy can sit by the fire and sing.
+0013_000897|0013|{F ER1 F L UW1 TH R UW1 DH IY0 EH1 R T IY1 TH N AE1 SH T}|fur flew through the air, teeth gnashed.
+0012_000312|0012|{F AA1 DH ER0 HH AE1 Z Y EH1 L OW0 AY1 Z}|father has yellow eyes.
+0020_000580|0020|{Y UH1 R OW1 N W AY1 F IH1 Z N AA1 T AE1 T HH OW1 M}|your own wife is not at home.
+0011_000672|0011|{AH0 S P EH1 SH AH0 L P AA1 T T UW1}|a special pot too.
+0019_001695|0019|{AY1 N OW1 HH AW1 T UW1 OW0 B EY1 AO1 R D ER0 Z}|i know how to obey orders.
+0017_001139|0017|{L EH1 T G OW1 AH0 V M AY1 T AA1 P N AA1 T}|let go of my top knot.
+0015_001697|0015|{HH AW1 T AA1 M AE1 N D JH EH1 R IY0 W EH1 N T T AH0 V IH1 Z IH0 T M IH1 S T ER0 S AE1 M}|how tom and jerry went to visit mister sam.
+0019_001172|0019|{AE1 M AY1 AH0 N AE1 B S AH0 L UW2 T P AA1 P ER0}|am i an absolute pauper?
+0014_000788|0014|{IH1 N M AY1 AH0 P IH1 N Y AH0 N DH AE1 T IH0 Z AH0 G UH1 D AY0 D IY1 AH0}|in my opinion that-is a good idea!
+0017_000061|0017|{IH1 Z D EY1 SH AY1 R Y IH1 R}|midyear is day, shire year.
+0018_001653|0018|{AY1 HH AE1 V AH0 S UW2 TH S EY1 ER0}|i have a soothsayer.
+0019_000264|0019|{S L AE1 M DH AH0 D AO1 R Z AH0 N D W EH1 JH DH EH1 M}|slam the doors and wedge them!
+0013_001149|0013|{AY1 V HH IH1 T DH AH1 R AO1 NG N OW1 Z}|i've hit the wrong nose.
+0017_000356|0017|{AE1 N D IY0 HH W AH1 T S DH AH0 JH AY1 R AH0 N D T AH0 G IH1 M B AH0 L}|andy what's the gyre and to gimble.
+0011_001545|0011|{R IY1 D B AY1 DH AH0 L IH1 V IH0 NG P UW1 L}|reed by the living pool!
+0016_000955|0016|{DH IH1 S W AH0 Z DH AH0 T W EH1 N IY0 F IH1 TH AH0 V N OW0 V EH1 M B ER0 S EH1 V AH0 N T IY1 N EY1 T IY0 TH R IY1}|this was the twenty fifth of november, seventeen eighty three.
+0013_000016|0013|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|mister share man, i move for a division.
+0011_000349|0011|{HH W AH1 D UW1 Y UW1 TH IH1 NG K AH1 V DH IH1 S K W EH1 S CH AH0 N}|what do you think of this question?
+0012_000582|0012|{W IH1 L K AA1 L HH ER0 L IH1 L IY0 F ER0 SH AO1 R T}|will call her lili, for short.
+0012_000996|0012|{Y UW1 W OW1 K M IY1 AH1 P}|you woke me up!
+0019_000002|0019|{AY1 D IH1 D G OW1 AE1 N D M EY1 D M EH1 N IY0 P R IH1 Z AH0 N ER0 Z}|i did go, and made many prisoners.
+0017_001113|0017|{AE1 S T ER0 OY2 D TH R IY1 HH AH1 N D ER0 D AH0 N D T W EH1 N IY0 F AY1 V}|asteroid three hundred and twenty five.
+0018_001376|0018|{DH EY1 AA1 R M EY1 D AH0 V W UH1 D}|they are made of wood.
+0018_000967|0018|{CH AE1 P T ER0 IH0 L EH1 V AH0 N AA1 N DH AH0 D AO1 R S T EH2 P}|chapter eleven on the doorstep.
+0020_000221|0020|{AY1 AE1 M AH0 S EH1 L F IH0 SH S IH1 N ER0}|i am a selfish sinner.
+0017_001669|0017|{B AH1 T SH OW1 M IY1 N AW1 Y UH1 R M AE1 P}|but show me now your map!
+0016_000671|0016|{K AA1 L D AW1 T DH AH0 K L AW1 D}|called out the cloud.
+0012_000244|0012|{AA1 F F R ER0 DH AH0 P R IH1 Z AH0 N SH IH1 P}|off for the prison ship.
+0013_001572|0013|{AY1 SH AE1 L S EY1 G UH1 D B AY1}|i shall say good bye.
+0020_001595|0020|{AH0 B OW1 T P UH1 T AW1 T AA1 N DH AH0 B EY1}|a boat put out-on the bay.
+0013_000442|0013|{D AH1 Z DH AH1 W AH1 N DH AE1 T W IH1 N Z G IH1 T DH AH0 K R AW1 N D}|does the one that wins get the crowned?
+0015_001505|0015|{HH IY1 W AH0 Z K IH1 L D B AY1 AH0 N EH1 R OW0}|he was killed by an arrow.
+0018_001544|0018|{W IY1 AA1 L S IY1 P AE1 N D AH0 AA1 N spn AO1 R IH0 N DH AH0 Z UW1}|we all see panda on tv or in the zoo.
+0011_001620|0011|{HH ER0 P AO1 W EH1 N T IH0 N T UW1 Y UH1 R AY1}|her paw went into your eye?
+0019_001589|0019|{HH W IH1 N S AH1 CH W AA1 N D ER0 ER0 Z M IY1 T}|when such wanderers meet.
+0019_001184|0019|{R EH1 R R AE1 B AH0 T HH AE1 D AH0 L IH1 T AH0 L EY1 P R AH0 N}|rare rabbit had a little apron.
+0015_000601|0015|{DH AH0 L EY1 D IY0 B AH2 G T OW1 L D DH EH1 M P R AW1 D L IY0}|the ladybug told them proudly.
+0020_001534|0020|{R EH1 R R AE1 B AH0 T HH AE1 D AH0 L IH1 T AH0 L EY1 P R AH0 N}|rare rabbit had a little apron.
+0015_001345|0015|{AY1 N OW1 HH AW1 T UW1 OW0 B EY1 AO1 R D ER0 Z}|i know how to obey orders.
+0020_001089|0020|{AW1 ER0 TH AE1 NG K S T UW1 G AA1 D Z OW1 TH}|our thanks to god's oath.
+0014_000787|0014|{AH0 HH IH1 P OW0 L IH1 V Z IH0 N DH AH0 Z UW1}|a hippo lives in the zoo.
+0014_000426|0014|{DH AH0 HH AE1 G L UH1 K T IH0 N DH AH0 S T OW1 V}|the hag looked in the stove.
+0012_001148|0012|{S EH1 D DH AH0 W IH1 CH}|said the witch.
+0019_001586|0019|{SH IY1 JH AH1 M P AE1 T DH AH0 T EY1 L AH0 N D B AY1 T IH1 T S AE1 V IH0 JH L IY0}|she jump at the tail and bite it savagely.
+0017_001185|0017|{AY1 B L IH1 NG K T M AY1 AY1 Z HH AA1 R D}|i blinked my eyes hard.
+0020_000865|0020|{DH EY1 W ER0 G OW1 IH0 NG F AE1 S T W IH0 TH AH0 L AY1 T K L IH1 P}|they were going fast, with a light clip.
+0020_001659|0020|{DH AH0 S AO1 NG IH1 Z K AO1 L D W EY1 Z AE1 N D M IY1 N Z}|the song is called ways and means.
+0012_000278|0012|{AY1 N OW1 Y UW1}|i know you .
+0016_001593|0016|{P L IY1 Z HH AY1 R M IY1 AE1 F T ER0 Y UW1}|please hire me after you.
+0018_001584|0018|{W IY1 HH AE1 V B IH0 N F AY1 N HH AE1 V AH0 N T W IY1}|we have been fine, haven't we?
+0019_001020|0019|{G OW1 T B IH1 L IY0 AE1 S T DH IY0 OW1 L D CH AY0 N IY1 Z G AY1}|goat billy asked the old chinese guy.
+0017_001393|0017|{AH0 N D W AH1 T D IH0 Z IH1 T M IY1 N}|and what does it mean?
+0017_000217|0017|{Y UW1 K R UW1 AH0 L T IY0 SH AE1 L K AA1 S T Y UH1 R L AY1 F}|you cruelty shall cost your life !
+0013_001106|0013|{Y UH1 R M IH1 JH AH0 T W AY1 F N EH1 V ER0 K AE1 N S IH1 NG AH0 S AO1 NG}|your midget wife never can sing a song.
+0017_000045|0017|{DH AH0 N AE1 S T IY0 AH0 S T TH IH1 NG Z DH EY1 S AA1 W ER0 DH AH0 K AA1 B W EH2 B Z}|the nastiest things they saw were the cobwebs.
+0019_000889|0019|{HH W EH1 N S AH1 CH W AA1 N D ER0 ER0 Z M IY1 T}|when such wanderers meet.
+0015_001620|0015|{HH ER0 P AA1 W EH1 N T IH0 N T UW1 Y UH1 R AY1}|her paw went into your eye?
+0019_001674|0019|{B IH0 K AA1 Z HH IY1 W AH0 Z AH0 M AE1 N W IH0 TH IH1 N F AH0 N AH0 T R IY1 S AO0 R S AH0 N D S AH0 G AE1 S AH0 T IY0}|because he was a man with infinite resource and sagacity.
+0019_000231|0019|{HH IY1 T OW1 L D M IY1 DH AE1 T AY1 AA1 T T AH0 CH EY1 N JH}|he told me that i ought to change.
+0017_000082|0017|{AH0 F EH1 R JH AA1 K R AE1 K ER0 spn L AE1 NG G W AH0 JH M AH1 S T B IY1}|a fair jaw cracker dwarf language must be!
+0016_000573|0016|{P IH1 K P IH1 K P IH1 K}|pick, pick, pick!
+0017_000076|0017|{DH AH0 HH AE1 G L UH1 K T IH0 N DH AH0 S T OW1 V}|the hag looked in the stove.
+0017_001533|0017|{AY1 S M EH1 L DH AH0 B R EH1 TH AH0 V AH0 N IH1 NG G L IH0 SH}|i smell the breath of an english.
+0013_000647|0013|{HH AW1 T AA1 M AH0 N D JH EH1 R IY0 W EH1 N T T AH0 V IH1 Z IH0 T M IH1 S T ER0 S AE1 M}|how tom and jerry went to visit mister sam.
+0012_001685|0012|{DH AH0 S T R AA1 CH AA1 R K OW2 L AE1 N D DH AH0 P IY1}|the straw, charcoal and the pea.
+0017_001625|0017|{HH ER0 IH0 G Z IH1 S T AH0 N S M EY1 K S HH IH1 M P L EH1 Z AH0 N T}|her existence makes him pleasant.
+0012_001357|0012|{AY1 OW1 DH EH1 M F AY1 V HH AH1 N D R AH0 D D AA1 L ER0 Z}|i owe them five hundred dollars.
+0019_000448|0019|{S EH1 D DH AH0 W IH1 CH}|said the witch.
+0016_000975|0016|{Y UW1 SH UH1 D AH0 N T HH AE1 V P R IH1 K T IH0 M W IH0 TH Y UH1 R HH AO1 R N}|you shouldn't have pricked him with your horn.
+0018_001614|0018|{B AH1 T W AH1 T AH0 B AW1 T DH IH1 S TH IH1 NG S T IH1 K IY0}|but what about this thing, sticky!
+0017_000808|0017|{DH AH0 S K W AY1 R HH IH0 M S EH1 L F SH OW1 D P ER1 F IH2 K T}|the squire himself showed perfect.
+0012_001729|0012|{AE1 N D HH IH1 Z HH AA1 R T W AE1 G D W IH0 TH JH OY1 L AY1 K AH0 L AE1 M Z T EY1 L}|and his heart wagged with joy like a lamb's tail.
+0018_000921|0018|{AY1 AE1 M AH0 S EH1 L F IH0 SH S IH1 N ER0}|i am a selfish sinner.
+0015_000423|0015|{HH AW1 S AH0 S P IH1 SH AH0 S DH IH1 S F AA1 K S}|how suspicious this fox.
+0017_000746|0017|{DH EY1 D N EH1 V ER0 N OW1 AY1 D R EH1 G Y AH0 L ER0 R AE1 N AH0 W EY1}|they'd never know i'd regular ran away.
+0014_001466|0014|{SH AE1 L W IY1 L EH1 T B AA1 R B ER0 AH0 IH1 N}|shall we let barbara in?
+0016_000035|0016|{DH AH0 N EY1 M R IY1 L IY0 IH1 Z DH IY0 spn M AE1 N}|the name really is the agedaged man.
+0011_000716|0011|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|mister share man, i move for a division.
+0013_000219|0013|{B AH1 T DH AH0 T UW1 N IH1 Z AH0 N HH IH1 Z OW1 N IH0 N V EH1 N SH AH0 N}|but the tune isn't his own invention.
+0017_001104|0017|{AA1 R Y UW1 AH0 R EH1 G Y AH0 L ER0 spn R IY1 L IY0}|are you a regular darkey really?
+0011_001271|0011|{AY1 AE1 M AH0 S EH1 L F IH0 SH S IH1 N ER0}|i am a selfish sinner.
+0015_000707|0015|{AY1 M AE1 Z B AE1 D AE1 Z AY1 K AH0 N B IY1}|i'm as bad as i can be.
+0019_001737|0019|{B AH1 T M AA1 M AY1 M N AA1 T S ER1 T AH0 N AH0 B AW1 T}|but mom i'm not certain about.
+0019_001491|0019|{W IY1 IH0 K S P EH1 K T IH0 D T AA1 M W UH1 D JH AH1 M P F ER0 JH OY1}|we expected tom would jump for joy.
+0015_000804|0015|{HH IY1 R EY1 EH1 M AY1 HH UW1 M Y UW1 S IY1 K}|here am i whom you seek.
+0020_000155|0020|{DH IH1 S S P IY1 CH R AW1 Z D D EY1 M IH1 L S T UW1 AE1 NG G ER0}|this speech roused dame ilse to anger.
+0016_000202|0016|{DH AE1 T S AW1 N D Z G UH1 D}|that sounds good.
+0018_001308|0018|{M AH1 M SH AH1 T S W AH1 N Z M AW1 TH AH1 P D AH1 Z AH0 N IH0 T}|mum shuts one's mouth up, doesn't it.
+0011_000237|0011|{HH W AH1 T W UH1 D DH EY1 D UW1 AE1 T DH IY0 EH1 N D AH0 V DH IY0 Y IH1 R}|what would they do at the end of the year?
+0020_001616|0020|{IH1 T IH1 Z AH0 N T P IH1 K T AE1 T AA1 L}|it isn't picked at all.
+0020_001429|0020|{R AE1 T K EY1 M AH0 N D R IH0 P L AY1 D AA1 N DH AH1 L IY1 V Z}|rat came and replied on the leaves.
+0012_001575|0012|{AA1 L DH IH1 S HH AE1 V W AH1 N B AY1 AA1 R L EY1 B ER0}|all this have won by our labour.
+0017_001567|0017|{AY1 T OY1 W IH0 TH M AY1 L IH0 K ER1}|i toy with my liqueur.
+0011_000163|0011|{HH AW1 DH EY1 W EH1 N T T AH0 DH AH0 M AW1 N T AH0 N Z T IH0 IY1 T N AH1 T S}|how they went to the mountains to eat nuts.
+0019_000341|0019|{IH0 N AH1 F Y UW1 AH0 F UW1 L IH0 SH CH AE1 T ER0}|enough,you a foolish chatter.
+0020_000789|0020|{L EH1 T G OW1 AH0 V M AY1 T AA1 P N AA1 T}|let go of my top knot.
+0015_001696|0015|{Y UW1 W OW1 K M IY1 AH1 P}|you woke me up!
+0012_001010|0012|{HH W AY1 IH1 T IH1 Z JH AH1 S T L AY1 K DH AH0 R AW1 N D EH1 G W IH1 CH S AW1 N D Z TH IH1 N}|why it is just like the round egg which sounds thin.
+0012_000641|0012|{DH IY0 EH1 N D AH1 V F EH1 B Y AH0 W EH2 R IY0 F AO1 R T IY1 N TH}|the end of february fourteenth.
+0011_001213|0011|{HH AW1 DH EY1 W EH1 N T T AH0 DH AH0 M AW1 N T AH0 N Z T IH0 IY1 T N AH1 T S}|how they went to the mountains to eat nuts.
+0016_000336|0016|{OW1 V ER0 DH EH1 M S W UW1 P T DH IY0 IY1 G AH0 L Z}|over them swooped the eagles.
+0018_000404|0018|{AA1 R Y UW1 AH0 R EH1 G Y AH0 L ER0 spn R IY1 L IY0}|are you a regular darkey really?
+0020_000327|0020|{IH1 T S P AA1 R T AH0 V M AY1 S IY1 K R IH0 T}|it's part of my secret.
+0015_000059|0015|{Z IY1 R OW0 F AO1 R TH R IY1 AH0 S IH1 L V ER0 SH IH1 L IH0 NG IH1 Z JH ER1 N IY0}|zero four three a silver shilling is journey.
+0012_000793|0012|{T AH0 B AY1 T UW1 P AO1 R K CH AA1 P S}|to buy two pork chops.
+0012_001481|0012|{AE1 N D AY1 N EH1 V ER0 HH AE1 D AH0 W UW1 P IH0 NG K AA1 F W AY1}|and i never had a whooping cough why.
+0018_000084|0018|{B AY1 HH UH1 K AO1 R B AY1 K R UH1 K}|by hook or by crook.
+0018_000141|0018|{K AE1 N AY1 L AA1 JH HH IY1 R T AH0 N AY1 T}|can i lodge here tonight?
+0017_000471|0017|{F IH1 N AE1 N D DH AH0 F EH1 R IY0 SH UW1 M EY2 K ER0}|finn and the fairy shoemaker.
+0014_001209|0014|{S AH1 CH T UW1 N Z AA1 R JH OY1 T UW1 AH0 D AE1 N S IH0 NG F EY1}|such tunes are joy to a dancing fay.
+0015_000825|0015|{T UW1 K AE1 CH DH AE1 T B UH1 L R AH0 SH R UW1 W IH0 TH M AY1 P AA1}|to catch that bulrush root with my paw!
+0013_001519|0013|{DH AH0 AW1 L F L UW1 IH0 N T UW1 AH0 B UH1 SH}|the owl flew into a bush.
+0016_000016|0016|{M IH1 S T ER0 SH EH1 R M AE1 N AY1 M UW1 V F AO1 R AH0 D IH0 V IH1 ZH AH0 N}|mister share man, i move for a division.
+0012_001603|0012|{AY1 W AH1 Z N AA1 T G R AE1 B D}|i was not grabbed.
+0012_001251|0012|{AH0 L EY1 D IY0 IH1 Z AA1 N AE1 L AH0 S AH0 Z L AE1 P}|a lady, is on alice's lap!
+0014_000312|0014|{F AA1 DH ER0 HH AE1 Z Y EH1 L OW0 AY1 Z}|father has yellow eyes.
+0011_000254|0011|{SH IY1 L AE1 F T}|she laughed.
+0018_000028|0018|{SH IY1 HH AE1 D S EH1 D S OW1 DH AE1 T W AH1 N K UH1 D K IY1 P AH1 P AH0 K AA2 N V ER0 S EY1 SH AH0 N}|she had said, so that one could keep up a conversation!
+0017_000204|0017|{DH AH0 S AO1 NG IH1 Z R IH1 L IY0 spn AA1 N AH0 G EY1 T}|the song is really louding on a gate.
+0015_000580|0015|{Y UH1 R OW1 N W AY1 F IH1 Z N AA1 T AE1 T HH OW1 M}|your own wife is not at home.
+0017_000311|0017|{AY1 AE1 M S EY1 F B AE1 K AH0 G EH1 N}|i am safe back again.
+0012_000898|0012|{AY1 D SH UW1 T M AY2 S EH1 L F AH0 P AA1 Z}|i'd shoot myself. a pause.
+0013_000183|0013|{F R EH1 SH P EY1 N S IY1 Z D P AO1 L Z B AA1 D IY0}|fresh pain seized paul's body.
+0014_000546|0014|{K L IH1 R AA1 R Y AO1 R AY1 Z AE1 N D B R AY1 T Y AO1 R B R EH1 TH}|clear are your eyes and bright your breath!
+0013_000220|0013|{HH ER0 P AO1 W EH1 N T IH0 N T UW1 Y UH1 R AY1}|her paw went into your eye?
+0016_000669|0016|{HH AW1 K UH1 D AY1 D IH1 G B ER1 OW0 Z W IH0 TH SH AO1 R T T OW1 N EY1 L Z}|how could i dig burrows with short toe nails?
+0014_001182|0014|{AY1 TH AE1 NG K Y UW1 F R ER0 DH IH1 S M ER1 S IY0}|i thank you for this mercy!
+0014_000972|0014|{N OW1 AH0 D M IH1 T AH0 N S IH0 K S EH1 P T AA1 N P AA1 R T IY0 B IH1 Z N AH0 S}|no admittance except on party business.
