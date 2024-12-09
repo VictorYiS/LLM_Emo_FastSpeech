@@ -10,7 +10,7 @@ from utils.model import get_model, get_vocoder
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-def generate_emotions_args(text="Stop shouting at me", speaker_id=0, emotion="Neutral"):
+def generate_emotions_args(text="Stop shouting at me with 8 again, you bastard", speaker_id=8, emotion="Surprise"):
     args_dict = {
         "restore_step": 18000,
         "mode": "single",
