@@ -43,7 +43,7 @@ class FastSpeech2(nn.Module):
         self.emotion_emb = None
         encoder_hidden = model_config["transformer"]["encoder_hidden"]
         self.emotion_emb = nn.Embedding(
-            8,
+            model_config["n_emotions"],
             encoder_hidden,
         )
 
