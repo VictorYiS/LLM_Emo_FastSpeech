@@ -16,7 +16,7 @@ from text import text_to_sequence
 from text.emotion import process_emotion
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-SPLIT_LIMIT = 100
+SPLIT_LIMIT = 500
 
 def read_lexicon(lex_path):
     lexicon = {}

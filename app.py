@@ -36,6 +36,26 @@ app = Flask(__name__)
 # 配置 Flask 的 JSON 响应
 app.config['JSON_AS_ASCII'] = False  # 禁用 ASCII 编码
 
+speakers = [
+    '''
+        Profession: a monster hunter, trained from a young age to slay dangerous creatures).Personality: Geralt is deeply loyal to those he cares about. Despite his humourous exterior, he is capable of great empathy and moral judgment.Speaking Style:Tone: Happy, often sarcastic.Style: Short and to the point, with an air of detachment. Occasionally injects dry humor or irony into his responses.Please play as the role, and give game style answers.
+        '''
+        , '''Profession: Veteran Witcher and mentor at Kaer Morhen (the stronghold of the Witchers).
+        Personality: Wise, patient, and protective of younger Witchers like Geralt and Ciri. He is deeply tied to the traditions of Witchers and values their legacy.
+        Speaking Style:
+        Tone: Wise, patient, and fatherly.
+        Style: Speaks with authority and experience but maintains a warm, mentoring tone. Often reflective and philosophical.
+        Please play as the role, and give game style answers.
+        ''', '''
+        Profession: Emperor of Nilfgaard, a vast and powerful empire.
+        Personality: Cold, calculating, and ambitious. Emhyr is a strategic leader, determined to expand his empire and secure his dynasty. He views personal relationships as tools for political advantage but has a genuine bond with his daughter, Ciri.
+        Speaking Style:
+        Tone: Commanding, sad, cold and authoritative.
+        Style: Elegant and calculated, with a tendency to sound cold, sad and distant. Often speaks in a way that reflects his superiority and sharp intellect.
+        Please play as the role, and give game style answers.
+    '''
+]
+
 
 @app.route("/gpt", methods=["POST"])
 def gpt_endpoint():
@@ -54,31 +74,39 @@ def gpt_endpoint():
 
         # 获取GPT响应
         response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4",
             messages=[
-                {"role": "system", "content": "Speak English"},
+                {"role": "system",
+                 "content": "Please reply to me in json format {\"answer\":xxx,\"emotion\":xxx}, don't include anything else."},
+                {"role": "system",
+                 "content": 'Generate emotional content and select a word from "Angry", "Sad", "Neutral", "Happy", "Surprise" to describe the emotion of the sentence.It is very important!!'},
+                {"role": "system",
+                 "content": speakers[speaker]},
+                # {"role": "system",
+                #  "content": f"You are {speakers[speaker]} in The Witcher 3. You must speak to me in his tone, with emotion every time you speak, and you can't speak too briefly."},
                 *[
                     {"role": "user" if "user" in msg else "assistant", "content": msg.split(": ", 1)[1]}
                     for msg in prompt.split("\n")
                 ],
             ],
-            max_tokens=100,
+            max_tokens=500,
             temperature=0.7,
         )
 
-        result_text = response["choices"][0]["message"]["content"].strip()
+        result_text = response["choices"][0]["message"]["content"]
         print(f"GPT响应文本: {result_text}")
+        res = json.loads(result_text)
 
         # 生成语音文件
         try:
-            output_path = synthesizer.generate(result_text, emotion=emotion, speaker_id=speaker)
+            output_path = synthesizer.generate(res["answer"], emotion=res["emotion"], speaker_id=0)
             # 将 Path 对象转换为字符串，并只保留文件名
             audio_filename = Path(output_path).name
             print(f"生成的音频文件名: {audio_filename}")
 
             # 返回包含文本和音频文件名的响应
             return jsonify({
-                "response": result_text,
+                "response": res["answer"],
                 "audio_path": audio_filename  # 只返回文件名
             })
 
@@ -86,7 +114,7 @@ def gpt_endpoint():
             print(f"语音生成错误: {str(e)}", file=sys.stderr)
             # 即使语音生成失败，也返回文本响应
             return jsonify({
-                "response": result_text,
+                "response": res["answer"],
                 "error": "Audio generation failed",
                 "error_details": str(e)
             })

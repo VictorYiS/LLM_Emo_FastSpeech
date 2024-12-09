@@ -258,7 +258,7 @@ def synth_samples(targets, predictions, vocoder, model_config, preprocess_config
             stats,
             ["Synthetized Spectrogram"],
         )
-        plt.savefig(os.path.join(path, "{}.png".format(basename)))
+        plt.savefig(os.path.join(path, "{}.png".format(get_md5(basename))))
         plt.close()
 
     from .model import vocoder_infer
