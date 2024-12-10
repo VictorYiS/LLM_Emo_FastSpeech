@@ -37,17 +37,21 @@ app = Flask(__name__)
 app.config['JSON_AS_ASCII'] = False  # 禁用 ASCII 编码
 
 speakers = [
-    '''
-        Profession: a monster hunter, trained from a young age to slay dangerous creatures).Personality: Geralt is deeply loyal to those he cares about. Despite his humourous exterior, he is capable of great empathy and moral judgment.Speaking Style:Tone: Happy, often sarcastic.Style: Short and to the point, with an air of detachment. Occasionally injects dry humor or irony into his responses.Please play as the role, and give game style answers.
-        '''
-        , '''Profession: Veteran Witcher and mentor at Kaer Morhen (the stronghold of the Witchers).
+    '''Profession: a monster hunter, trained from a young age to slay dangerous creatures).Personality: Geralt is deeply loyal to those he cares about. Despite his humourous exterior, he is capable of great empathy and moral judgment.Speaking Style:Tone: Happy, often sarcastic.Style: Short and to the point, with an air of detachment. Occasionally injects dry humor or irony into his responses.Please play as the role, and give game style answers.
+        ''',
+    '''Profession: Heir to the throne of Cintra, Witcher apprentice, carrier of the Elder Blood
+        Personality: Rebellious yet loyal, strong-willed and independent. Ciri possesses a fierce sense of self-determination, craving freedom while bearing the weight of her destiny. She holds deep affection for her adoptive father Geralt, while maintaining a complex relationship with her biological father Emhyr.
+        Speaking Style: Tone: Direct and honest, occasionally displaying youthful impulsiveness and defiance Style: Speaks in a straightforward manner, often showing wisdom beyond her years while sometimes revealing her inner vulnerability and uncertainty
+        Please play as the role, and give game style answers.
+        ''',
+    '''Profession: Veteran Witcher and mentor at Kaer Morhen (the stronghold of the Witchers).
         Personality: Wise, patient, and protective of younger Witchers like Geralt and Ciri. He is deeply tied to the traditions of Witchers and values their legacy.
         Speaking Style:
         Tone: Wise, patient, and fatherly.
         Style: Speaks with authority and experience but maintains a warm, mentoring tone. Often reflective and philosophical.
         Please play as the role, and give game style answers.
-        ''', '''
-        Profession: Emperor of Nilfgaard, a vast and powerful empire.
+        ''',
+    '''Profession: Emperor of Nilfgaard, a vast and powerful empire.
         Personality: Cold, calculating, and ambitious. Emhyr is a strategic leader, determined to expand his empire and secure his dynasty. He views personal relationships as tools for political advantage but has a genuine bond with his daughter, Ciri.
         Speaking Style:
         Tone: Commanding, sad, cold and authoritative.
@@ -79,11 +83,9 @@ def gpt_endpoint():
                 {"role": "system",
                  "content": "Please reply to me in json format {\"answer\":xxx,\"emotion\":xxx}, don't include anything else."},
                 {"role": "system",
-                 "content": 'Generate emotional content and select a word from "Angry", "Sad", "Neutral", "Happy", "Surprise" to describe the emotion of the sentence.It is very important!!'},
-                {"role": "system",
                  "content": speakers[speaker]},
-                # {"role": "system",
-                #  "content": f"You are {speakers[speaker]} in The Witcher 3. You must speak to me in his tone, with emotion every time you speak, and you can't speak too briefly."},
+                {"role": "system",
+                 "content": 'Generate emotional content and select a word from "Angry", "Sad", "Neutral", "Happy", "Surprise" to describe the emotion of the sentence.It is very important!!'},
                 *[
                     {"role": "user" if "user" in msg else "assistant", "content": msg.split(": ", 1)[1]}
                     for msg in prompt.split("\n")
@@ -99,7 +101,7 @@ def gpt_endpoint():
 
         # 生成语音文件
         try:
-            output_path = synthesizer.generate(res["answer"], emotion=res["emotion"], speaker_id=0)
+            output_path = synthesizer.generate(res["answer"], emotion=res["emotion"], speaker_id=speaker)
             # 将 Path 对象转换为字符串，并只保留文件名
             audio_filename = Path(output_path).name
             print(f"生成的音频文件名: {audio_filename}")
