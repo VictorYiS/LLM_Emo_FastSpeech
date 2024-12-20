@@ -1,6 +1,12 @@
 # LLM_Emo_FastSpeech
 You can install the dependencies listed in the requirements.txt file using versions that suit your needs; there's no need to stick to the exact versions I used.
+## Acknowledgments
+This project references code from the following repository:
+- [FastSpeech2](https://github.com/ming024/FastSpeech2)
+- [Expressive-FastSpeech2](https://github.com/keonlee9420/Expressive-FastSpeech2)  
+  Description of how their code was used in these projects.
 
+## Training
 If you want to train on your own dataset, you can refer to the dataset preparation process of ESD. First, pre-align the dataset, then perform the MFA operation (you need to download the MFA tool from the official MFA website), and finally preprocess the data before training.
 
 ```bash
@@ -11,6 +17,7 @@ mfa align ./raw_data/ESD/ english_us_arpa english_us_arpa preprocessed_data/ESD/
 python preprocess.py -p config/ESD/preprocess.yaml
 python train.py -p config/ESD/preprocess.yaml
 ```
+## Inference
 To generate emotion-infused audio, you can use the following command to utilize the pre-trained model (make sure to place the model files in output/ckpt/ESD beforehand). Update the file configuration to modify the text, speaker, and emotion:
 
 Pre-trained model:https://drive.google.com/file/d/1VU4KXx6IehDgaB1MooL1HBg3EG2WqAQN/view?usp=sharing
