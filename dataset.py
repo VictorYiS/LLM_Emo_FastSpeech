@@ -89,7 +89,6 @@ class Dataset(Dataset):
             text = []
             raw_text = []
             for line in f.readlines():
-			    # 文件名处理，需要留意
                 n, s, t, r = line.strip("\n").split("|")
                 name.append(n)
                 speaker.append(s)
@@ -117,7 +116,6 @@ class Dataset(Dataset):
         pitches = pad_1D(pitches)
         energies = pad_1D(energies)
         durations = pad_1D(durations)
-        # 似乎没必要
         emotions = np.array(emotions)
 
         return (
@@ -157,7 +155,6 @@ class Dataset(Dataset):
 
         return output
 
-# batch用的，先不加
 class TextDataset(Dataset):
     def __init__(self, filepath, preprocess_config):
         self.cleaners = preprocess_config["preprocessing"]["text"]["text_cleaners"]
@@ -190,7 +187,6 @@ class TextDataset(Dataset):
             speaker = []
             text = []
             raw_text = []
-            # 这里的n s t r是什么
             for line in f.readlines():
                 n, s, t, r = line.strip("\n").split("|")
                 name.append(n)

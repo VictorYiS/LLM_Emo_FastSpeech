@@ -17,11 +17,8 @@ def generate_emotions_args(text="Stop shouting at me with 8 again, you bastard",
         "preprocess_config": "./config/ESD/preprocess.yaml",
         "model_config": "./config/ESD/model.yaml",
         "train_config": "./config/ESD/train.yaml",
-        # 这里修改文本
         "text": text,
-        # 这里修改说话者
         "speaker_id": speaker_id,
-        # 这里修改情感
         "emotion": emotion
     }
     args_list = []

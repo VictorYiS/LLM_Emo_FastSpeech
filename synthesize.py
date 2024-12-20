@@ -204,7 +204,7 @@ if __name__ == "__main__":
     # Load vocoder
     vocoder = get_vocoder(model_config, device)
 
-    # Preprocess texts   batch后面再加？
+    # Preprocess texts
     if args.mode == "batch":
         # Get dataset
         dataset = TextDataset(args.source, preprocess_config)
@@ -223,7 +223,6 @@ if __name__ == "__main__":
         elif preprocess_config["preprocessing"]["text"]["language"] == "zh":
             texts = np.array([preprocess_mandarin(args.text, preprocess_config)])
         text_lens = np.array([len(texts[0])])
-        # 这里改了加情感
         batchs = [(ids, raw_texts, speakers, emotion, texts, text_lens, max(text_lens))]
 
     control_values = args.pitch_control, args.energy_control, args.duration_control
