@@ -20,7 +20,7 @@ python train.py -p config/ESD/preprocess.yaml
 ## Inference
 To generate emotion-infused audio, you can use the following command to utilize the pre-trained model (make sure to place the model files in output/ckpt/ESD beforehand). Update the file configuration to modify the text, speaker, and emotion:
 
-Pre-trained model:https://drive.google.com/file/d/1VU4KXx6IehDgaB1MooL1HBg3EG2WqAQN/view?usp=sharing
+Pre-trained model:https://drive.google.com/file/d/1SDpwohN1rQ7ihYb0iOxIdY6cAaAtx_VA/view?usp=sharing
 ```bash
 python generate_with_emotion.py
 ```

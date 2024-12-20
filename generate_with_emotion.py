@@ -12,7 +12,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 def generate_emotions_args(text="Stop shouting at me with 8 again, you bastard", speaker_id=8, emotion="Surprise"):
     args_dict = {
-        "restore_step": 18000,
+        "restore_step": 540000,
         "mode": "single",
         "preprocess_config": "./config/ESD/preprocess.yaml",
         "model_config": "./config/ESD/model.yaml",
